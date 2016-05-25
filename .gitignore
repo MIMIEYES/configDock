@@ -1,4 +1,12 @@
 *.class
+*.iml
+.DS_Store
+.idea/*
+logs/*
+log/*
+rebel.xml
+MANIFEST.MF
+classes/*
 
 # Package Files #
  *.jar
