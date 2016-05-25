@@ -1,19 +1,20 @@
+.DS_Store
+
 *.class
 *.iml
-.DS_Store
-.idea/*
-logs/*
-log/*
+.idea
+logs
+log
 rebel.xml
 MANIFEST.MF
-classes/*
+classes
 
-# Package Files #
  *.jar
  *.war
  *.ear
- target/*
  .settings
  .classpath
  .project
 
+ target
+ target/*
