@@ -12,8 +12,8 @@ classes/*
  *.jar
  *.war
  *.ear
- /target/*
- /.settings
- /.classpath
- /.project
+ target/*
+ .settings
+ .classpath
+ .project
 
