@@ -36,6 +36,7 @@
                 <mysql.host>127.0.0.1</mysql.host>
                 <mysql.port>3306</mysql.port>
                 <mysql.user>root</mysql.user>
+                <mysql.password></mysql.password>
                 <mysql.database>test</mysql.database>
 
             </properties>
