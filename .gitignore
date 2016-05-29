@@ -1,0 +1,19 @@
+.DS_Store
+
+*.class
+*.iml
+.idea
+logs
+log
+rebel.xml
+MANIFEST.MF
+classes
+
+ *.jar
+ *.war
+ *.ear
+ .settings
+ .classpath
+ .project
+
+ target
