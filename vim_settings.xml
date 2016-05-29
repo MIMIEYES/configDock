@@ -1,0 +1,51 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/testdwz/pom.xml" timestamp="1464547278242">
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="41" column="16" />
+        <mark key="^" line="41" column="16" />
+        <mark key="." line="41" column="16" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/testdwz/src/main/java/com/testdwz/bean/Test.java" timestamp="1464547152387">
+        <mark key="[" line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/testdwz/src/main/java/com/testdwz/bean/MUser.java" timestamp="1464547123089">
+        <mark key="'" line="23" column="11" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="27" column="7" />
+        <mark key="^" line="27" column="7" />
+        <mark key="." line="27" column="7" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="24" column="11" filename="$USER_HOME$/IdeaProjects/testdwz/src/main/java/com/testdwz/bean/MUser.java" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIE1Vc2VyIHsKCXByaXZhdGUgSW50ZWdlciBpZDsKCXByaXZhdGUgU3RyaW5nIG5hbWU7Cglwcml2YXRlIFN0cmluZyByZWFsTmFtZTsKCXByaXZhdGUgU3RyaW5nIHBhc3N3b3JkOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIE1Vc2VyIHsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIE1Vc2VyIHsKCXByaXZhdGUgSW50ZWdlciBpZDsKCXByaXZhdGUgU3RyaW5nIG5hbWU7Cglwcml2YXRlIFN0cmluZyByZWFsTmFtZTsKCXByaXZhdGUgU3RyaW5nIHBhc3N3b3JkOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
