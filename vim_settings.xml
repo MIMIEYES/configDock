@@ -9,14 +9,23 @@
         <mark key="^" line="41" column="16" />
         <mark key="." line="41" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/testinta/src/main/java/com/testint/controller/mybatis/DemoController.java" timestamp="1464613784054">
-        <mark key="[" line="59" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/testinta/src/main/java/com/testint/controller/mybatis/DemoController.java" timestamp="1464616062816">
+        <mark key="[" line="59" column="49" />
         <mark key="]" line="60" column="54" />
         <mark key="^" line="60" column="54" />
         <mark key="." line="60" column="54" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/testint/pom.xml" timestamp="1464617364641">
+        <mark key="[" line="35" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/testinta/pom.xml" timestamp="1464616233663">
+        <mark key="[" line="35" column="39" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/testdwz/src/main/java/com/testdwz/bean/Test.java" timestamp="1464547152387">
         <mark key="[" line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/testinta/src/test/resources/mybatis/demo.sql" timestamp="1464616138439">
+        <mark key="[" line="56" column="40" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/testdwz/src/main/java/com/testdwz/bean/MUser.java" timestamp="1464547123089">
         <mark key="'" line="23" column="11" />
@@ -59,6 +68,12 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

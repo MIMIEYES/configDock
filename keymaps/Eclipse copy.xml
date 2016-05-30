@@ -1,0 +1,5 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="shift caps_lock" />
+  </action>
+</keymap>
