@@ -9,6 +9,12 @@
         <mark key="^" line="41" column="16" />
         <mark key="." line="41" column="16" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/testinta/src/main/java/com/testint/controller/mybatis/DemoController.java" timestamp="1464613784054">
+        <mark key="[" line="59" column="30" />
+        <mark key="]" line="60" column="54" />
+        <mark key="^" line="60" column="54" />
+        <mark key="." line="60" column="54" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/testdwz/src/main/java/com/testdwz/bean/Test.java" timestamp="1464547152387">
         <mark key="[" line="4" column="13" />
       </file>
@@ -34,7 +40,7 @@
         <text encoding="base64">cHVibGljIGNsYXNzIE1Vc2VyIHsKCXByaXZhdGUgSW50ZWdlciBpZDsKCXByaXZhdGUgU3RyaW5nIG5hbWU7Cglwcml2YXRlIFN0cmluZyByZWFsTmFtZTsKCXByaXZhdGUgU3RyaW5nIHBhc3N3b3JkOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -42,10 +48,18 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
