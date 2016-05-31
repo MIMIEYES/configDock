@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/testdwz/pom.xml" timestamp="1464547278242">
@@ -27,11 +27,11 @@
       <file name="$USER_HOME$/IdeaProjects/testint/src/main/java/com/testint/util/session/UserSessionInterceptor.java" timestamp="1464703598792">
         <mark key="[" line="19" column="73" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/testint/src/main/java/com/testint/controller/mybatis/DemoController.java" timestamp="1464702408319">
-        <mark key="[" line="95" column="46" />
-        <mark key="]" line="95" column="44" />
-        <mark key="^" line="95" column="44" />
-        <mark key="." line="95" column="44" />
+      <file name="$USER_HOME$/IdeaProjects/testint/src/main/java/com/testint/controller/mybatis/DemoController.java" timestamp="1464710229641">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/testinta/src/test/resources/mybatis/demo.sql" timestamp="1464616138439">
         <mark key="[" line="56" column="40" />
@@ -52,10 +52,13 @@
         <text encoding="base64">cHVibGljIGNsYXNzIE1Vc2VyIHsKCXByaXZhdGUgSW50ZWdlciBpZDsKCXByaXZhdGUgU3RyaW5nIG5hbWU7Cglwcml2YXRlIFN0cmluZyByZWFsTmFtZTsKCXByaXZhdGUgU3RyaW5nIHBhc3N3b3JkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE1Vc2VyIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE1Vc2VyIHsKCXByaXZhdGUgSW50ZWdlciBpZDsKCXByaXZhdGUgU3RyaW5nIG5hbWU7Cglwcml2YXRlIFN0cmluZyByZWFsTmFtZTsKCXByaXZhdGUgU3RyaW5nIHBhc3N3b3JkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIE1Vc2VyIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -69,6 +72,9 @@
       <history-search />
       <history-cmd>
         <entry>wq</entry>
+        <entry>showline</entry>
+        <entry>set nonumber</entry>
+        <entry>set number</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
