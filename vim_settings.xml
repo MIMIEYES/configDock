@@ -1,8 +1,14 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/controller/mybatis/TaskinfoController.java" timestamp="1465129498335">
+        <mark key="]" line="29" column="84" />
+        <mark key="^" line="29" column="84" />
+        <mark key="." line="29" column="84" />
+        <mark key="[" line="29" column="84" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/testint/src/main/java/com/testint/controller/mybatis/DemoController.java" timestamp="1464792650571">
         <mark key="]" line="110" column="11" />
         <mark key="^" line="110" column="11" />
@@ -56,20 +62,26 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/comment/src/test/resources/mybatis/generatorConfig.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsK</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">cHVibGljIGNsYXNzIE1Vc2VyIHsK</text>
       </register>
-      <register name="1" type="2">
+      <register name="&quot;" type="4">
+        <text>;</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsK</text>
+      </register>
+      <register name="1" type="4">
+        <text>;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHVibGljIGNsYXNzIE1Vc2VyIHsKCXByaXZhdGUgSW50ZWdlciBpZDsKCXByaXZhdGUgU3RyaW5nIG5hbWU7Cglwcml2YXRlIFN0cmluZyByZWFsTmFtZTsKCXByaXZhdGUgU3RyaW5nIHBhc3N3b3JkOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set number</text>
+      </register>
+      <register name="-" type="4">
+        <text>;</text>
       </register>
     </registers>
     <search>
@@ -81,9 +93,9 @@
       <history-cmd>
         <entry>wq</entry>
         <entry>showline</entry>
+        <entry>w</entry>
         <entry>set nonumber</entry>
         <entry>set number</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
