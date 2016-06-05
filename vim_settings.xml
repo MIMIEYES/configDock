@@ -1,13 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/controller/mybatis/TaskinfoController.java" timestamp="1465129498335">
-        <mark key="]" line="29" column="84" />
-        <mark key="^" line="29" column="84" />
-        <mark key="." line="29" column="84" />
-        <mark key="[" line="29" column="84" />
+      <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/controller/mybatis/TaskinfoController.java" timestamp="1465130611264">
+        <mark key="]" line="55" column="10" />
+        <mark key="^" line="55" column="10" />
+        <mark key="." line="55" column="10" />
+        <mark key="[" line="55" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/testint/src/main/java/com/testint/controller/mybatis/DemoController.java" timestamp="1464792650571">
         <mark key="]" line="110" column="11" />
@@ -60,28 +60,35 @@
       <jump line="24" column="11" filename="$USER_HOME$/IdeaProjects/testdwz/src/main/java/com/testdwz/bean/MUser.java" />
       <jump line="16" column="686" filename="$USER_HOME$/Documents/comment/src/test/resources/mybatis/generatorConfig.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/comment/src/test/resources/mybatis/generatorConfig.properties" />
+      <jump line="55" column="12" filename="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/controller/mybatis/TaskinfoController.java" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE1Vc2VyIHsK</text>
+      <register name="3" type="4">
+        <text>;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsK</text>
+      <register name="2" type="4">
+        <text>}</text>
       </register>
       <register name="1" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHVibGljIGNsYXNzIE1Vc2VyIHsKCXByaXZhdGUgSW50ZWdlciBpZDsKCXByaXZhdGUgU3RyaW5nIG5hbWU7Cglwcml2YXRlIFN0cmluZyByZWFsTmFtZTsKCXByaXZhdGUgU3RyaW5nIHBhc3N3b3JkOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIE1Vc2VyIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -96,6 +103,7 @@
         <entry>w</entry>
         <entry>set nonumber</entry>
         <entry>set number</entry>
+        <entry>find select</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,6 +120,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
