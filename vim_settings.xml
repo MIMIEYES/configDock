@@ -72,11 +72,11 @@
       <jump line="55" column="12" filename="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/controller/mybatis/TaskinfoController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name="3" type="4">
         <text>;</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
         <text>}</text>
