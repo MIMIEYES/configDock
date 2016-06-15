@@ -58,6 +58,11 @@
       <file name="$USER_HOME$/IdeaProjects/testint/src/main/java/com/testint/util/session/UserSessionInterceptor.java" timestamp="1464703598792">
         <mark key="[" line="19" column="73" />
       </file>
+      <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/bean/TaskinfoDetail.java" timestamp="1466008080550">
+        <mark key="]" line="27" column="5" />
+        <mark key="." line="36" column="124" />
+        <mark key="[" line="27" column="5" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/testdwz/src/main/java/com/testdwz/bean/Test.java" timestamp="1464547152387">
         <mark key="[" line="4" column="13" />
       </file>
@@ -73,13 +78,13 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>;</text>
+        <text>}</text>
       </register>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IA==</text>
@@ -87,11 +92,14 @@
       <register name="0" type="2">
         <text encoding="base64">cHVibGljIGNsYXNzIE1Vc2VyIHsKCXByaXZhdGUgSW50ZWdlciBpZDsKCXByaXZhdGUgU3RyaW5nIG5hbWU7Cglwcml2YXRlIFN0cmluZyByZWFsTmFtZTsKCXByaXZhdGUgU3RyaW5nIHBhc3N3b3JkOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">cHVibGljIGNsYXNzIE1Vc2VyIHsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLC0sLrwvAiKTsK</text>
+      </register>
+      <register name="4" type="4">
+        <text>;</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
@@ -135,6 +143,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
