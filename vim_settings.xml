@@ -3,10 +3,10 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/comment/src/test/java/JDKProxy/SayHotHandle.java" timestamp="1469029764854">
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="27" />
-        <mark key="[" line="9" column="3" />
+      <file name="$USER_HOME$/Documents/comment/src/test/java/JDKProxy/SayHotHandle.java" timestamp="1469031158846">
+        <mark key="]" line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/testint/src/main/java/com/testint/controller/mybatis/DemoController.java" timestamp="1464792650571">
         <mark key="]" line="110" column="11" />
@@ -14,11 +14,10 @@
         <mark key="." line="110" column="11" />
         <mark key="[" line="109" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/comment/src/test/java/JDKProxy/JDKProxyTestMain.java" timestamp="1469029972705">
-        <mark key="]" line="11" column="57" />
-        <mark key="^" line="11" column="57" />
-        <mark key="." line="11" column="57" />
-        <mark key="[" line="11" column="59" />
+      <file name="$USER_HOME$/Documents/comment/src/test/java/JDKProxy/JDKProxyTestMain.java" timestamp="1469031324133">
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+        <mark key="[" line="12" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/comment/src/test/java/JDKProxy/DoSomething.java" timestamp="1469029336446">
         <mark key="]" line="24" column="28" />
@@ -96,44 +95,44 @@
       <jump line="55" column="12" filename="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/controller/mybatis/TaskinfoController.java" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>targetObj</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBPYmplY3QgaVByb3h5ID0gUHJveHkubmV3UHJveHlJbnN0YW5jZShEb1NvbWV0aGluZy5jbGFzcy5nZXRDbGFzc0xvYWRlcigpLERvU29tZXRoaW5nLmNsYXNzLmdldEludGVyZmFjZXMoKSxoYW5kbGUpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpUHJveHkuZ2V0Q2xhc3MoKS5nZXROYW1lKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihEb1NvbWV0aGluZy5jbGFzcy5nZXRJbnRlcmZhY2VzKCkpOwovLyAgICAgICAgaVByb3h5LmNvZGluZygpOwogICAgfQp9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>DoSomething</text>
+        <text>;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRhcmdldE9iaiA9IHRhcmdldE9iajsK</text>
+      <register name="2" type="4">
+        <text>Proxy.newProxyInstance(DoSomething.class.getClassLoader(),DoSomething.class.getInterfaces(),handle)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>;</text>
       </register>
       <register name="0" type="4">
         <text>DoSomething</text>
       </register>
       <register name="7" type="4">
-        <text>drinking</text>
+        <text>I</text>
       </register>
       <register name="6" type="4">
-        <text>drinking</text>
+        <text>(DoSomething</text>
       </register>
       <register name="5" type="4">
-        <text>drinking</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>Object</text>
+        <text>DoSomething</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnRhcmdldE9iaiA9IHRhcmdldE9iajsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>targetObj</text>
+        <text>;</text>
       </register>
     </registers>
     <search>
