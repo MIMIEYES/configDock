@@ -46,6 +46,15 @@
       <file name="$USER_HOME$/IdeaProjects/testinta/pom.xml" timestamp="1464616233663">
         <mark key="[" line="35" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/comment/src/test/java/Cglib/DoThings.java" timestamp="1469101329564">
+        <mark key="." line="18" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/comment/src/test/java/Cglib/SayMorningRule.java" timestamp="1469101231410">
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="[" line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/testinta/src/main/java/com/testint/controller/mybatis/DemoController.java" timestamp="1464616062816">
         <mark key="]" line="60" column="54" />
         <mark key="^" line="60" column="54" />
@@ -64,11 +73,11 @@
         <mark key="." line="55" column="10" />
         <mark key="[" line="55" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/testint/src/main/java/com/testint/util/session/UserSessionInterceptor.java" timestamp="1464703598792">
-        <mark key="[" line="19" column="73" />
-      </file>
       <file name="$USER_HOME$/Documents/comment/src/test/resources/mybatis/generatorConfig.properties" timestamp="1465047693280">
         <mark key="." line="0" column="2435" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/testint/src/main/java/com/testint/util/session/UserSessionInterceptor.java" timestamp="1464703598792">
+        <mark key="[" line="19" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/bean/TaskinfoDetail.java" timestamp="1466085082570">
         <mark key="]" line="27" column="5" />
@@ -81,11 +90,11 @@
       <file name="$USER_HOME$/IdeaProjects/testint/pom.xml" timestamp="1464617364641">
         <mark key="[" line="35" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/business/TaskinfoLogicBusiness.java" timestamp="1466083776302">
-        <mark key="." line="26" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/business/WithdrawBusiness.java" timestamp="1468849048207">
         <mark key="[" line="53" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/business/TaskinfoLogicBusiness.java" timestamp="1466083776302">
+        <mark key="." line="26" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -95,41 +104,41 @@
       <jump line="55" column="12" filename="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/controller/mybatis/TaskinfoController.java" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3QgaVByb3h5ID0gUHJveHkubmV3UHJveHlJbnN0YW5jZShEb1NvbWV0aGluZy5jbGFzcy5nZXRDbGFzc0xvYWRlcigpLERvU29tZXRoaW5nLmNsYXNzLmdldEludGVyZmFjZXMoKSxoYW5kbGUpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpUHJveHkuZ2V0Q2xhc3MoKS5nZXROYW1lKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihEb1NvbWV0aGluZy5jbGFzcy5nZXRJbnRlcmZhY2VzKCkpOwovLyAgICAgICAgaVByb3h5LmNvZGluZygpOwogICAgfQp9Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlbi5jcmVhdGUK</text>
       </register>
-      <register name="&quot;" type="4">
+      <register name="3" type="4">
         <text>;</text>
       </register>
-      <register name="2" type="4">
-        <text>Proxy.newProxyInstance(DoSomething.class.getClassLoader(),DoSomething.class.getInterfaces(),handle)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="1" type="4">
-        <text>;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBlbi5jcmVhdGUK</text>
       </register>
-      <register name="0" type="4">
-        <text>DoSomething</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInByZS4uLiBtb3JuaW5nfiIpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>I</text>
-      </register>
-      <register name="6" type="4">
-        <text>(DoSomething</text>
-      </register>
-      <register name="5" type="4">
         <text>)</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>DoSomething</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBPYmplY3QgaVByb3h5ID0gUHJveHkubmV3UHJveHlJbnN0YW5jZShEb1NvbWV0aGluZy5jbGFzcy5nZXRDbGFzc0xvYWRlcigpLERvU29tZXRoaW5nLmNsYXNzLmdldEludGVyZmFjZXMoKSxoYW5kbGUpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpUHJveHkuZ2V0Q2xhc3MoKS5nZXROYW1lKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihEb1NvbWV0aGluZy5jbGFzcy5nZXRJbnRlcmZhY2VzKCkpOwovLyAgICAgICAgaVByb3h5LmNvZGluZygpOwogICAgfQp9Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>Proxy.newProxyInstance(DoSomething.class.getClassLoader(),DoSomething.class.getInterfaces(),handle)</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRhcmdldE9iaiA9IHRhcmdldE9iajsK</text>
+      <register name="9" type="4">
+        <text>I</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text>(DoSomething</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
