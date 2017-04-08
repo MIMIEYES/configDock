@@ -3,10 +3,10 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/comment/src/test/java/JDKProxy/JDKProxyTestMain.java" timestamp="1469031324133">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
+      <file name="$USER_HOME$/Documents/comment/src/test/java/JDKProxy/JDKProxyTestMain.java" timestamp="1491647521777">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/testinta/src/main/java/com/testint/controller/mybatis/DemoController.java" timestamp="1464616062816">
         <mark key="[" line="59" column="49" />
@@ -141,7 +141,7 @@
         <text>I</text>
       </register>
       <register name=":" type="4">
-        <text>set number</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -157,6 +157,7 @@
         <entry>set nonumber</entry>
         <entry>set number</entry>
         <entry>find select</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
