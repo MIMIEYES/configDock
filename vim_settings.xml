@@ -1,7 +1,9 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="false" />
-    <globalmarks />
+    <globalmarks>
+      <mark key="M" line="25" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
+    </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Documents/comment/src/test/java/JDKProxy/JDKProxyTestMain.java" timestamp="1491647521777">
         <mark key="[" line="11" column="23" />
@@ -16,6 +18,10 @@
       </file>
       <file name="$USER_HOME$/Documents/comment/src/test/resources/mybatis/generatorConfig.properties" timestamp="1465047693280">
         <mark key="." line="0" column="2435" />
+      </file>
+      <file name="F:/projectL/demo/src/test/java/com/entity/TestBean.java" timestamp="1500520022413">
+        <mark key="'" line="26" column="0" />
+        <mark key="." line="5" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/comment/src/test/java/Cglib/DoThings.java" timestamp="1469101329564">
         <mark key="." line="18" column="58" />
@@ -111,6 +117,10 @@
       <jump line="16" column="686" filename="$USER_HOME$/Documents/comment/src/test/resources/mybatis/generatorConfig.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/comment/src/test/resources/mybatis/generatorConfig.properties" />
       <jump line="55" column="12" filename="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/controller/mybatis/TaskinfoController.java" />
+      <jump line="21" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
+      <jump line="25" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
+      <jump line="0" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
+      <jump line="26" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
