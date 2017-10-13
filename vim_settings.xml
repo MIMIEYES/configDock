@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="M" line="25" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
     </globalmarks>
@@ -87,6 +87,13 @@
       <file name="F:/projectL/demo/src/test/web/closure.html" timestamp="1501223903423">
         <mark key="." line="11" column="50" />
       </file>
+      <file name="F:/projectL/demo/src/test/java/com/string/CharsetTest.java" timestamp="1507903945098">
+        <mark key="'" line="12" column="8" />
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="11" />
+        <mark key="^" line="22" column="11" />
+        <mark key="." line="22" column="11" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/testdwz/src/main/java/com/testdwz/bean/Test.java" timestamp="1464547152387">
         <mark key="[" line="4" column="13" />
       </file>
@@ -124,46 +131,63 @@
       <jump line="25" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
       <jump line="0" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
       <jump line="26" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
+      <jump line="10" column="27" filename="F:/projectL/demo/src/test/java/com/string/CharsetTest.java" />
+      <jump line="13" column="8" filename="F:/projectL/demo/src/test/java/com/string/CharsetTest.java" />
+      <jump line="12" column="8" filename="F:/projectL/demo/src/test/java/com/string/CharsetTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbi5jcmVhdGUK</text>
+      <register name="&quot;" type="8">
+        <text>Strin
+Syste
+Strin
+Syste</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>I</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInByZS4uLiBtb3JuaW5nfiIpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbi5jcmVhdGUK</text>
+      <register name="1" type="8">
+        <text>Strin
+Syste
+Strin
+Syste</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="8">
+        <text>Strin
+Syste
+Strin
+Syste
+byte[
+Strin</text>
       </register>
-      <register name="3" type="4">
-        <text>;</text>
+      <register name="3" type="8">
+        <text>Sys
+Str
+Sys
+byt</text>
       </register>
-      <register name="4" type="4">
-        <text>Proxy.newProxyInstance(DoSomething.class.getClassLoader(),DoSomething.class.getInterfaces(),handle)</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAgICAgICBTCiAgICAgICAgUwogICAgICAgIFMKICAgICAgICBTCiAgICAgICAgUwogICAgICAgIGIKICAgICAgICBTCiAgICAgICAgUwogICAgICAgIFMKICAgICAgICBTCiAgICB9Cn0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3QgaVByb3h5ID0gUHJveHkubmV3UHJveHlJbnN0YW5jZShEb1NvbWV0aGluZy5jbGFzcy5nZXRDbGFzc0xvYWRlcigpLERvU29tZXRoaW5nLmNsYXNzLmdldEludGVyZmFjZXMoKSxoYW5kbGUpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpUHJveHkuZ2V0Q2xhc3MoKS5nZXROYW1lKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihEb1NvbWV0aGluZy5jbGFzcy5nZXRJbnRlcmZhY2VzKCkpOwovLyAgICAgICAgaVByb3h5LmNvZGluZygpOwogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYTAgPSBuZXcgU3RyaW5nKHN0ci5nZXRCeXRlcygiR0JLIiksICJHQksiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYTApOwogICAgICAgIFN0cmluZyBhMSA9IG5ldyBTdHJpbmcoYTAuZ2V0Qnl0ZXMoIlVURi04IiksICJHQksiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYTEpOwogICAgICAgIFN0cmluZyBhMiA9IG5ldyBTdHJpbmcoYTEuZ2V0Qnl0ZXMoIkdCSyIpLCAiVVRGLTgiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYTIpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>DoSomething</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlbi5jcmVhdGUK</text>
       </register>
-      <register name="7" type="4">
-        <text>)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="4">
-        <text>(DoSomething</text>
+        <text>;</text>
       </register>
       <register name="9" type="4">
-        <text>I</text>
+        <text>Proxy.newProxyInstance(DoSomething.class.getClassLoader(),DoSomething.class.getInterfaces(),handle)</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -175,11 +199,11 @@
       <history-cmd>
         <entry>wq</entry>
         <entry>showline</entry>
-        <entry>w</entry>
         <entry>set nonumber</entry>
         <entry>set number</entry>
         <entry>find select</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -211,6 +235,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
