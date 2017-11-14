@@ -1,0 +1,71 @@
+{
+    "vim.disableAnnoyingNeovimMessage": true,
+    "vim.insertModeKeyBindingsNonRecursive": [
+        {
+            "before": ["k", "j"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.easymotion": true,
+    "vim.otherModesKeyBindingsNonRecursive": [
+        {
+            "before": ["W"],
+            "after": ["v", "i", "w"]
+        },
+        {
+            "before": ["Y"],
+            "after": ["\"", "+", "y"]
+        },
+        {
+            "before": ["<leader>", "p"],
+            "after": ["\"", "+", "p"]
+        },
+        {
+            "before": ["<leader>", "s", "a"],
+            "after": ["g", "g", "v", "G"]
+        },
+        {
+            "before": ["y","w"],
+            "after": ["y", "i", "w"]
+        },
+        {
+            "before": ["d","w"],
+            "after": ["d", "i", "w"]
+        },
+        {
+            "before": ["j"],
+            "after": ["g", "j"]
+        },
+        {
+            "before": ["k"],
+            "after": ["g", "k"]
+        },
+        {
+            "before": [";"],
+            "after": [":"]
+        },
+        {
+            "before": ["L"],
+            "after": ["$"]
+        },
+        {
+            "before": ["-"],
+            "after": ["$"]
+        },
+        {
+            "before": ["H"],
+            "after": ["^"]
+        },
+        {
+            "before": ["<leader>", "w"],
+            "after": [],
+            "commands": [
+                {
+                    "command": "workbench.action.files.save",
+                    "args": []
+                }
+            ]
+        }
+    ],
+    "vim.leader": ","
+}
