@@ -1,4 +1,4 @@
-
+" source ~/.vimrc
 set keep-english-in-normal-and-restore-in-insert
 set relativenumber number
 set nocompatible
@@ -6,11 +6,6 @@ set nocompatible
 " 修改leader键
 let mapleader = ','
 let g:mapleader = ','
-
-" 显示行号
-set number
-" 取消换行
-set nowrap
 
 " 设置文内智能搜索提示
 " 高亮search命中的文本
@@ -20,10 +15,8 @@ set incsearch
 " 搜索时忽略大小写
 set ignorecase
 " 有一个或以上大写字母时仍大小写敏感
-set smartcase
+" set smartcase
 
-" 显示当前的行号列号
-set ruler
 " 在状态栏显示正在输入的命令
 set showcmd
 " 左下角显示当前vim模式
@@ -31,7 +24,6 @@ set showmode
 
 " 在上下移动光标时，光标的上方或下方至少会保留显示的行数
 set scrolloff=7
-
 
 "Treat long lines as break lines (useful when moving around in them)
 "se swap之后，同物理行上线直接跳
@@ -41,19 +33,21 @@ nnoremap j gj
 nnoremap gj j
 
 " Go to home and end using capitalized directions
-noremap H ^
-noremap L $
+nnoremap 0 ^
+nnoremap H ^
+nnoremap L $
+nnoremap ^ 0
 
 
 " Map ; to : and save a million keystrokes 用于快速进入命令行
-nnoremap ; :
+" nnoremap ; :
 
 " Keep search pattern at the center of the screen.
 nnoremap <silent> n nzt
 nnoremap <silent> N Nzt
-nnoremap <silent> * *zz
-nnoremap <silent> # #zz
-nnoremap <silent> g* g*zz
+" nnoremap <silent> * *zz
+" nnoremap <silent> # #zz
+" nnoremap <silent> g* g*zz
 
 " select all
 map <Leader>sa ggVG
@@ -64,9 +58,8 @@ nnoremap <leader>v Vi}
 noremap <leader>h <Esc>:nohls<CR>
 
 
-" 插入模式下用绝对行号, 普通模式下用相对
-" Ctrl+g 替换 Esc
-inoremap <C-g> <Esc>:set relativenumber number<CR>
+" kj 替换 Esc
+" inoremap kj <Esc>:set relativenumber number<CR>
 inoremap <Esc> <Esc>:set relativenumber number<CR>
 nnoremap i <Esc>:set norelativenumber number<CR>i
 nnoremap A <Esc>:set norelativenumber number<CR>A
@@ -76,9 +69,12 @@ nnoremap o <Esc>:set norelativenumber number<CR>o
 nnoremap <leader>n <Esc>:set norelativenumber number<CR>
 nnoremap <leader>r <Esc>:set relativenumber number<CR>
 
+nnoremap <space> /
+
+"nnoremap cm <Esc>gg/public <CR>20lyiw
+
 noremap / /
 vnoremap / /
-" idea的acejump插件快捷键
 " Press `f` to activate AceJump
 nnoremap <leader><leader>f :action AceAction<CR>
 " Press `F` to activate Target Mode
@@ -87,6 +83,8 @@ nnoremap <leader><leader>F :action AceTargetAction<CR>
 nnoremap <leader><leader>g :action AceLineAction<CR>
 nnoremap <leader>l 5l
 
+"nnoremap <leader><leader>p <Esc>/private<CR>
+"nnoremap <leader><leader>P <Esc>/public<CR>
 "nnoremap <leader><leader>p <Esc>/\(public\\\|private\\\|protect\\\|static\\\|void\)\(\s\+\w\+\)\+<CR>
 nnoremap <leader><leader>p <Esc>/public\\\|private\\\|protect<CR>
 
@@ -107,4 +105,6 @@ nnoremap <C-i> o<Esc>
 vnoremap Y "+y
 nnoremap - $
 
+" 替换 Esc
+inoremap <C-g> <Esc>:set relativenumber number<CR>
 
