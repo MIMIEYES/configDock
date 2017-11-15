@@ -26,11 +26,11 @@
         },
         {
             "before": ["y","w"],
-            "after": ["y", "i", "w"]
+            "after": ["i", "w"]
         },
         {
             "before": ["d","w"],
-            "after": ["d", "i", "w"]
+            "after": ["i", "w"]
         },
         {
             "before": ["j"],
@@ -67,5 +67,6 @@
             ]
         }
     ],
-    "vim.leader": ","
+    "vim.leader": ",",
+    "editor.lineNumbers": "relative"
 }
