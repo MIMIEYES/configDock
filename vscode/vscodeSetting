@@ -70,12 +70,32 @@
                     "args": []
                 }
             ]
+        },
+        {
+            "before": ["<leader>", "n"],
+            "after": [],
+            "commands": [
+                {
+                    "command": ":set relativenumber",
+                    "args": []
+                }
+            ]
+        },
+        {
+            "before": ["<leader>", "<leader>", "n"],
+            "after": [],
+            "commands": [
+                {
+                    "command": ":set number",
+                    "args": []
+                }
+            ]
         }
     ],
     "vim.leader": ",",
-    "editor.lineNumbers": "relative",
+    "editor.lineNumbers": "on",
     "sync.gist": "e0995f512bd773e857b1c096fcaf9db5",
-    "sync.lastUpload": "2017-11-15T03:21:54.112Z",
+    "sync.lastUpload": "2017-11-16T01:19:13.163Z",
     "sync.autoDownload": false,
     "sync.autoUpload": false,
     "sync.lastDownload": "",
@@ -85,5 +105,6 @@
     "sync.pathPrefix": "",
     "sync.quietSync": false,
     "sync.askGistName": false,
-    "vim.cmdLineInitialColon": true
+    "vim.cmdLineInitialColon": true,
+    "git.enableSmartCommit": true
 }
