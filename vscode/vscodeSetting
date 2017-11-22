@@ -27,7 +27,7 @@
         },
         {
             "before": ["<leader>", "s", "a"],
-            "after": ["g", "g", "v", "G"]
+            "after": ["g", "g", "V", "G"]
         },
         {
             "before": ["y","w"],
@@ -45,10 +45,10 @@
             "before": ["k"],
             "after": ["g", "k"]
         },
-        {
-            "before": [";"],
-            "after": [":"]
-        },
+//        {
+//            "before": [";"],
+//            "after": [":"]
+//        },
         {
             "before": ["L"],
             "after": ["$"]
@@ -72,7 +72,7 @@
             ]
         },
         {
-            "before": ["<leader>", "n"],
+            "before": ["<leader>", "r"],
             "after": [],
             "commands": [
                 {
@@ -82,7 +82,7 @@
             ]
         },
         {
-            "before": ["<leader>", "<leader>", "n"],
+            "before": ["<leader>", "n"],
             "after": [],
             "commands": [
                 {
@@ -93,9 +93,9 @@
         }
     ],
     "vim.leader": ",",
-    "editor.lineNumbers": "on",
+    "editor.lineNumbers": "relative",
     "sync.gist": "e0995f512bd773e857b1c096fcaf9db5",
-    "sync.lastUpload": "2017-11-16T01:19:13.163Z",
+    "sync.lastUpload": "2017-11-16T09:44:44.016Z",
     "sync.autoDownload": false,
     "sync.autoUpload": false,
     "sync.lastDownload": "",
@@ -106,5 +106,6 @@
     "sync.quietSync": false,
     "sync.askGistName": false,
     "vim.cmdLineInitialColon": true,
-    "git.enableSmartCommit": true
+    "git.enableSmartCommit": true,
+    "java.errors.incompleteClasspath.severity": "ignore"
 }

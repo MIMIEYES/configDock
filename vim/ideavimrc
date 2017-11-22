@@ -59,13 +59,13 @@ noremap <leader>h <Esc>:nohls<CR>
 
 
 " kj 替换 Esc
-" inoremap kj <Esc>:set relativenumber number<CR>
-inoremap <Esc> <Esc>:set relativenumber number<CR>
-nnoremap i <Esc>:set norelativenumber number<CR>i
-nnoremap A <Esc>:set norelativenumber number<CR>A
-nnoremap a <Esc>:set norelativenumber number<CR>a
-nnoremap O <Esc>:set norelativenumber number<CR>O
-nnoremap o <Esc>:set norelativenumber number<CR>o
+inoremap kj <Esc>
+" inoremap <Esc> <Esc>:set relativenumber number<CR>
+" nnoremap i <Esc>:set norelativenumber number<CR>i
+" nnoremap A <Esc>:set norelativenumber number<CR>A
+" nnoremap a <Esc>:set norelativenumber number<CR>a
+" nnoremap O <Esc>:set norelativenumber number<CR>O
+" nnoremap o <Esc>:set norelativenumber number<CR>o
 nnoremap <leader>n <Esc>:set norelativenumber number<CR>
 nnoremap <leader>r <Esc>:set relativenumber number<CR>
 
@@ -81,7 +81,10 @@ nnoremap <leader><leader>f :action AceAction<CR>
 nnoremap <leader><leader>F :action AceTargetAction<CR>
 " Press `g` to activate Line Mode
 nnoremap <leader><leader>g :action AceLineAction<CR>
-nnoremap <leader>l 5l
+" nnoremap <leader>l 5l
+nnoremap <leader>t zt
+nnoremap <leader>b zb
+
 
 "nnoremap <leader><leader>p <Esc>/private<CR>
 "nnoremap <leader><leader>P <Esc>/public<CR>
@@ -104,6 +107,8 @@ nnoremap <C-i> o<Esc>
 " copy text to clipboard
 vnoremap Y "+y
 nnoremap - $
+nnoremap + ddp
+nnoremap _ ddkP
 
 " 替换 Esc
 inoremap <C-g> <Esc>:set relativenumber number<CR>
