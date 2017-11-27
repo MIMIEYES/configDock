@@ -133,11 +133,12 @@
         <mark key="^" line="110" column="11" />
         <mark key="." line="110" column="11" />
       </file>
-      <file name="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" timestamp="1511772143833">
+      <file name="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" timestamp="1511772634075">
         <mark key="'" line="16" column="4" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/comment/src/test/java/Cglib/SayMorningRule.java" timestamp="1469101231410">
         <mark key="[" line="19" column="0" />
@@ -236,7 +237,7 @@ Strin</text>
       <last-offset />
       <last-pattern>public\|private\|protect</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -278,7 +279,7 @@ Strin</text>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -289,6 +290,9 @@ Strin</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
