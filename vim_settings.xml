@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="M" line="25" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
     </globalmarks>
@@ -133,6 +133,11 @@
         <mark key="^" line="110" column="11" />
         <mark key="." line="110" column="11" />
       </file>
+      <file name="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" timestamp="1511769491138">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/comment/src/test/java/Cglib/SayMorningRule.java" timestamp="1469101231410">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -168,7 +173,7 @@
         <text>target/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInByZS4uLiBtb3JuaW5nfiIpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgdGVzdExpc3RJdGVtKGNvbm4sIGZhbHNlKTsKICAgICAgICB0ZXN0UHVyY2hhc2VJdGVtKGNvbm4pOwogICAgICAgIHRlc3RCZW5jaG1hcmtVcGRhdGVUb2tlbihjb25uKTsKICAgICAgICAvL3Rlc3RTdHJpbmcoY29ubik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -177,21 +182,27 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IC5wcm9qZWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IC5jbGFzc3BhdGgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">IC5wcm9qZWN0Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IC5jbGFzc3BhdGgK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">IC5zZXR0aW5ncwo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text>Strin
 Syste
 Strin
 Syste</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>Strin
 Syste
 Strin
@@ -199,17 +210,8 @@ Syste
 byte[
 Strin</text>
       </register>
-      <register name="8" type="8">
-        <text>Sys
-Str
-Sys
-byt</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAgICAgICBTCiAgICAgICAgUwogICAgICAgIFMKICAgICAgICBTCiAgICAgICAgUwogICAgICAgIGIKICAgICAgICBTCiAgICAgICAgUwogICAgICAgIFMKICAgICAgICBTCiAgICB9Cn0=</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set number</text>
       </register>
     </registers>
     <search>
@@ -222,10 +224,11 @@ byt</text>
         <entry>wq</entry>
         <entry>showline</entry>
         <entry>set nonumber</entry>
-        <entry>set number</entry>
         <entry>find select</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>set relativenumber</entry>
+        <entry>set number</entry>
       </history-cmd>
       <history-expr />
       <history-input />
