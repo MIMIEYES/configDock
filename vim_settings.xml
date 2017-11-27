@@ -133,10 +133,11 @@
         <mark key="^" line="110" column="11" />
         <mark key="." line="110" column="11" />
       </file>
-      <file name="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" timestamp="1511769491138">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" timestamp="1511772143833">
+        <mark key="'" line="16" column="4" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/comment/src/test/java/Cglib/SayMorningRule.java" timestamp="1469101231410">
         <mark key="[" line="19" column="0" />
@@ -164,6 +165,19 @@
       <jump line="13" column="8" filename="F:/projectL/demo/src/test/java/com/string/CharsetTest.java" />
       <jump line="12" column="8" filename="F:/projectL/demo/src/test/java/com/string/CharsetTest.java" />
       <jump line="10" column="0" filename="F:/projectL/demo/.gitignore" />
+      <jump line="23" column="26" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
+      <jump line="73" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
+      <jump line="110" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
+      <jump line="115" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
+      <jump line="143" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
+      <jump line="179" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
+      <jump line="208" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
+      <jump line="219" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
+      <jump line="11" column="0" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
+      <jump line="12" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
+      <jump line="43" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
+      <jump line="35" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
+      <jump line="16" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -171,6 +185,9 @@
       </register>
       <register name="-" type="4">
         <text>target/</text>
+      </register>
+      <register name="/" type="4">
+        <text>public\|private\|protect</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICAgICAgdGVzdExpc3RJdGVtKGNvbm4sIGZhbHNlKTsKICAgICAgICB0ZXN0UHVyY2hhc2VJdGVtKGNvbm4pOwogICAgICAgIHRlc3RCZW5jaG1hcmtVcGRhdGVUb2tlbihjb25uKTsKICAgICAgICAvL3Rlc3RTdHJpbmcoY29ubik7Cg==</text>
@@ -211,15 +228,20 @@ byte[
 Strin</text>
       </register>
       <register name=":" type="4">
-        <text>set number</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search>public\|private\|protect</last-search>
+      <last-offset />
+      <last-pattern>public\|private\|protect</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>public\|private\|protect</entry>
+      </history-search>
       <history-cmd>
         <entry>wq</entry>
         <entry>showline</entry>
@@ -229,6 +251,7 @@ Strin</text>
         <entry>w</entry>
         <entry>set relativenumber</entry>
         <entry>set number</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
