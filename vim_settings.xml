@@ -209,7 +209,7 @@
         <text>target/</text>
       </register>
       <register name="/" type="4">
-        <text>public\|private\|protect</text>
+        <text encoding="base64">ZW5cPA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0ZXN0TGlzdEl0ZW0oY29ubiwgZmFsc2UpOwogICAgICAgIHRlc3RQdXJjaGFzZUl0ZW0oY29ubik7CiAgICAgICAgdGVzdEJlbmNobWFya1VwZGF0ZVRva2VuKGNvbm4pOwo=</text>
@@ -246,9 +246,9 @@
       </register>
     </registers>
     <search>
-      <last-search>public\|private\|protect</last-search>
+      <last-search encoding="base64">ZW5cPA==</last-search>
       <last-offset />
-      <last-pattern>public\|private\|protect</last-pattern>
+      <last-pattern encoding="base64">ZW5cPA==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -260,6 +260,7 @@
         <entry>\\#</entry>
         <entry>teststring</entry>
         <entry>public\|private\|protect</entry>
+        <entry encoding="base64">ZW5cPA==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
