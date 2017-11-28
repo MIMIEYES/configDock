@@ -114,6 +114,12 @@
       <file name="F:/projectL/demo/src/test/java/com/example/BinaryTreeTest.java" timestamp="1493994414348">
         <mark key="." line="192" column="56" />
       </file>
+      <file name="F:/projectL/demo/src/test/java/com/math/mathutil/MathFunction.java" timestamp="1511857839373">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+        <mark key="^" line="9" column="38" />
+      </file>
       <file name="F:/projectL/demo/src/test/web/closure.html" timestamp="1501223903423">
         <mark key="." line="11" column="50" />
       </file>
@@ -264,7 +270,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZXQ8VHVwbGU+IGEgPSBjb25uLnpyYW5nZVdpdGhTY29yZXMoIiIsIDAsIDApOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChiKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>target/</text>
@@ -273,7 +279,7 @@
         <text>tuple</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0TGlzdEl0ZW0oY29ubiwgZmFsc2UpOwogICAgICAgIHRlc3RQdXJjaGFzZUl0ZW0oY29ubik7CiAgICAgICAgdGVzdEJlbmNobWFya1VwZGF0ZVRva2VuKGNvbm4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZXQ8VHVwbGU+IGEgPSBjb25uLnpyYW5nZVdpdGhTY29yZXMoIiIsIDAsIDApOwo=</text>
