@@ -23,8 +23,11 @@
         <mark key="^" line="60" column="54" />
         <mark key="." line="60" column="54" />
       </file>
-      <file name="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" timestamp="1511853954970">
-        <mark key="'" line="285" column="43" />
+      <file name="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" timestamp="1511856415005">
+        <mark key="[" line="554" column="0" />
+        <mark key="m" line="357" column="42" />
+        <mark key="]" line="554" column="0" />
+        <mark key="." line="554" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/comment/src/test/resources/mybatis/generatorConfig.properties" timestamp="1465047693280">
         <mark key="." line="0" column="2435" />
@@ -158,18 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="11" filename="$USER_HOME$/IdeaProjects/testdwz/src/main/java/com/testdwz/bean/MUser.java" />
-      <jump line="16" column="686" filename="$USER_HOME$/Documents/comment/src/test/resources/mybatis/generatorConfig.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/comment/src/test/resources/mybatis/generatorConfig.properties" />
-      <jump line="55" column="12" filename="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/controller/mybatis/TaskinfoController.java" />
-      <jump line="21" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
-      <jump line="25" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
-      <jump line="0" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
-      <jump line="26" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
-      <jump line="10" column="27" filename="F:/projectL/demo/src/test/java/com/string/CharsetTest.java" />
-      <jump line="13" column="8" filename="F:/projectL/demo/src/test/java/com/string/CharsetTest.java" />
-      <jump line="12" column="8" filename="F:/projectL/demo/src/test/java/com/string/CharsetTest.java" />
-      <jump line="10" column="0" filename="F:/projectL/demo/.gitignore" />
       <jump line="73" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
       <jump line="110" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
       <jump line="115" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
@@ -228,65 +219,103 @@
       <jump line="233" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
       <jump line="241" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
       <jump line="245" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
-      <jump line="277" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
       <jump line="281" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
       <jump line="285" column="43" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="293" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="93" column="12" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="277" column="16" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="278" column="8" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="282" column="16" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="298" column="18" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="306" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="351" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="365" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="366" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="367" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="377" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="383" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="385" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="388" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="412" column="61" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="413" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="436" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="474" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="503" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="511" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="515" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="527" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="530" column="8" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="531" column="8" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="532" column="8" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="533" column="8" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="535" column="8" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="542" column="8" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="355" column="13" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="354" column="12" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="153" column="38" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="152" column="13" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="151" column="12" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="80" column="38" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="79" column="13" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="76" column="12" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="3" column="15" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="356" column="42" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="553" column="24" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZXQ8VHVwbGU+IGEgPSBjb25uLnpyYW5nZVdpdGhTY29yZXMoIiIsIDAsIDApOwo=</text>
       </register>
       <register name="-" type="4">
         <text>target/</text>
       </register>
       <register name="/" type="4">
-        <text>public\|private\|protect</text>
+        <text>tuple</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0ZXN0TGlzdEl0ZW0oY29ubiwgZmFsc2UpOwogICAgICAgIHRlc3RQdXJjaGFzZUl0ZW0oY29ubik7CiAgICAgICAgdGVzdEJlbmNobWFya1VwZGF0ZVRva2VuKGNvbm4pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZXQ8VHVwbGU+IGEgPSBjb25uLnpyYW5nZVdpdGhTY29yZXMoIiIsIDAsIDApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL3Rlc3RTdHJpbmcoY29ubik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL3Rlc3RTdHJpbmcoY29ubik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0QmVuY2htYXJrVXBkYXRlVG9rZW4oY29ubik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0QmVuY2htYXJrVXBkYXRlVG9rZW4oY29ubik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0QmVuY2htYXJrVXBkYXRlVG9rZW4oY29ubik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25uLnpyYW5nZVdpdGhTY29yZXMoIiIsIDAsIDApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0QmVuY2htYXJrVXBkYXRlVG9rZW4oY29ubik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0QmVuY2htYXJrVXBkYXRlVG9rZW4oY29ubik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3Rlc3RTdHJpbmcoY29ubik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0QmVuY2htYXJrVXBkYXRlVG9rZW4oY29ubik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3Rlc3RTdHJpbmcoY29ubik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set relativenumber number</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
-      <last-search>public\|private\|protect</last-search>
+      <last-search>tuple</last-search>
       <last-offset />
-      <last-pattern>public\|private\|protect</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>tuple</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>*</entry>
-        <entry>#</entry>
         <entry>\#</entry>
         <entry>\\#</entry>
         <entry>teststring</entry>
@@ -295,7 +324,10 @@
         <entry encoding="base64">dGVcPg==</entry>
         <entry encoding="base64">XDx0ZQ==</entry>
         <entry encoding="base64">dGVcPA==</entry>
+        <entry>#</entry>
+        <entry>updatecounter</entry>
         <entry>public\|private\|protect</entry>
+        <entry>tuple</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -309,10 +341,10 @@
         <entry>action AceLineAction</entry>
         <entry>nohls</entry>
         <entry>set ruler</entry>
-        <entry>action AceAction</entry>
         <entry>marklist</entry>
         <entry>marks</entry>
         <entry>set relativenumber number</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -362,6 +394,21 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed CLOSE_BRACKET</text>
