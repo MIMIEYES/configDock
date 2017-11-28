@@ -23,6 +23,9 @@
         <mark key="^" line="60" column="54" />
         <mark key="." line="60" column="54" />
       </file>
+      <file name="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" timestamp="1511853954970">
+        <mark key="'" line="285" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/comment/src/test/resources/mybatis/generatorConfig.properties" timestamp="1465047693280">
         <mark key="." line="0" column="2435" />
       </file>
@@ -202,6 +205,32 @@
       <jump line="16" column="8" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
       <jump line="51" column="35" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
       <jump line="0" column="0" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
+      <jump line="12" column="13" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="13" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="14" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="15" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="16" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="17" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="19" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="21" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="23" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="29" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="35" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="51" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="68" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="85" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="124" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="139" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="159" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="202" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="217" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="229" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="233" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="241" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="245" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="277" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="281" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="285" column="43" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -211,7 +240,7 @@
         <text>target/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">dGVcPA==</text>
+        <text>public\|private\|protect</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0ZXN0TGlzdEl0ZW0oY29ubiwgZmFsc2UpOwogICAgICAgIHRlc3RQdXJjaGFzZUl0ZW0oY29ubik7CiAgICAgICAgdGVzdEJlbmNobWFya1VwZGF0ZVRva2VuKGNvbm4pOwo=</text>
@@ -248,11 +277,11 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">dGVcPA==</last-search>
+      <last-search>public\|private\|protect</last-search>
       <last-offset />
-      <last-pattern encoding="base64">dGVcPA==</last-pattern>
+      <last-pattern>public\|private\|protect</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -261,12 +290,12 @@
         <entry>\#</entry>
         <entry>\\#</entry>
         <entry>teststring</entry>
-        <entry>public\|private\|protect</entry>
         <entry encoding="base64">ZW5cPA==</entry>
         <entry>te</entry>
         <entry encoding="base64">dGVcPg==</entry>
         <entry encoding="base64">XDx0ZQ==</entry>
         <entry encoding="base64">dGVcPA==</entry>
+        <entry>public\|private\|protect</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
