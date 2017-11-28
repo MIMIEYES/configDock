@@ -114,10 +114,11 @@
       <file name="F:/projectL/demo/src/test/java/com/example/BinaryTreeTest.java" timestamp="1493994414348">
         <mark key="." line="192" column="56" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/com/math/mathutil/MathFunction.java" timestamp="1511858661361">
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="15" column="39" />
-        <mark key="." line="15" column="39" />
+      <file name="F:/projectL/demo/src/test/java/com/math/mathutil/MathFunction.java" timestamp="1511861403922">
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="20" column="39" />
+        <mark key="." line="20" column="39" />
+        <mark key="^" line="16" column="7" />
       </file>
       <file name="F:/projectL/demo/src/test/web/closure.html" timestamp="1501223903423">
         <mark key="." line="11" column="50" />
@@ -268,18 +269,17 @@
       <jump line="553" column="24" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c = -1.5f;
-        System</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmbG9hdCBlID0gNS41ZjsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChkKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>target/</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>tuple</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdCBjID0gLTEuNWY7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKE1hdGgucm91bmQoYykpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdCBlID0gNS41ZjsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChkKSk7Cg==</text>
       </register>
       <register name="1" type="4">
         <text>c = -1.5f;
