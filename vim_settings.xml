@@ -114,11 +114,10 @@
       <file name="F:/projectL/demo/src/test/java/com/example/BinaryTreeTest.java" timestamp="1493994414348">
         <mark key="." line="192" column="56" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/com/math/mathutil/MathFunction.java" timestamp="1511857839373">
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="12" column="39" />
-        <mark key="." line="12" column="39" />
-        <mark key="^" line="9" column="38" />
+      <file name="F:/projectL/demo/src/test/java/com/math/mathutil/MathFunction.java" timestamp="1511858661361">
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="39" />
       </file>
       <file name="F:/projectL/demo/src/test/web/closure.html" timestamp="1501223903423">
         <mark key="." line="11" column="50" />
@@ -269,8 +268,9 @@
       <jump line="553" column="24" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChiKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>c = -1.5f;
+        System</text>
       </register>
       <register name="-" type="4">
         <text>target/</text>
@@ -279,34 +279,35 @@
         <text>tuple</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdCBjID0gLTEuNWY7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKE1hdGgucm91bmQoYykpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZXQ8VHVwbGU+IGEgPSBjb25uLnpyYW5nZVdpdGhTY29yZXMoIiIsIDAsIDApOwo=</text>
+      <register name="1" type="4">
+        <text>c = -1.5f;
+        System</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChjKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChjKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdCBjID0gLTEuNWY7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdCBjID0gLTEuNWY7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25uLnpyYW5nZVdpdGhTY29yZXMoIiIsIDAsIDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZXQ8VHVwbGU+IGEgPSBjb25uLnpyYW5nZVdpdGhTY29yZXMoIiIsIDAsIDApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL3Rlc3RTdHJpbmcoY29ubik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL3Rlc3RTdHJpbmcoY29ubik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
