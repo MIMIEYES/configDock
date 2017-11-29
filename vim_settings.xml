@@ -57,11 +57,6 @@
       <file name="$USER_HOME$/Documents/comment/pom.xml" timestamp="1466003321798">
         <mark key="[" line="248" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/comment/src/test/java/JDKProxy/SayHotHandle.java" timestamp="1469031158846">
-        <mark key="]" line="25" column="3" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="25" column="3" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/testint/pom.xml" timestamp="1464617364641">
         <mark key="[" line="35" column="34" />
       </file>
@@ -78,6 +73,12 @@
       </file>
       <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/business/WithdrawBusiness.java" timestamp="1468849048207">
         <mark key="[" line="53" column="12" />
+      </file>
+      <file name="F:/projectL/demo/src/test/java/com/pinyin/Pinyin4jTest.java" timestamp="1511949500327">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
       </file>
       <file name="F:/projectL/coding2017/students/402246209/learning/src/main/java/com/mimieye/odd/srp/PromotionAbstractMail.java" timestamp="1497367023011">
         <mark key="." line="87" column="37" />
@@ -110,6 +111,10 @@
         <mark key="]" line="41" column="16" />
         <mark key="^" line="41" column="16" />
         <mark key="." line="41" column="16" />
+      </file>
+      <file name="F:/projectL/demo/pom.xml" timestamp="1511948382862">
+        <mark key="'" line="91" column="16" />
+        <mark key="[" line="158" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/business/mybatis/TaskGetBusiness.java" timestamp="1465225091426">
         <mark key="[" line="102" column="7" />
@@ -170,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
       <jump line="110" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
       <jump line="115" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
       <jump line="143" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
@@ -270,6 +274,7 @@
       <jump line="3" column="15" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
       <jump line="356" column="42" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
       <jump line="553" column="24" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
+      <jump line="91" column="16" filename="F:/projectL/demo/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
