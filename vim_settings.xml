@@ -23,11 +23,11 @@
         <mark key="^" line="60" column="54" />
         <mark key="." line="60" column="54" />
       </file>
-      <file name="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" timestamp="1511856415005">
+      <file name="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" timestamp="1511863178344">
         <mark key="[" line="554" column="0" />
         <mark key="m" line="357" column="42" />
         <mark key="]" line="554" column="0" />
-        <mark key="." line="554" column="0" />
+        <mark key="." line="569" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/comment/src/test/resources/mybatis/generatorConfig.properties" timestamp="1465047693280">
         <mark key="." line="0" column="2435" />
@@ -96,6 +96,9 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
+      <file name="F:/SourceCode/redis/redis-in-action/java/src/main/java/guo4shou3/C05.java" timestamp="1511862951878">
+        <mark key="[" line="5" column="18" />
+      </file>
       <file name="/Dummy.txt" timestamp="1511849765911">
         <mark key="[" line="0" column="0" />
       </file>
@@ -114,11 +117,11 @@
       <file name="F:/projectL/demo/src/test/java/com/example/BinaryTreeTest.java" timestamp="1493994414348">
         <mark key="." line="192" column="56" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/com/math/mathutil/MathFunction.java" timestamp="1511861403922">
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="39" />
-        <mark key="." line="20" column="39" />
+      <file name="F:/projectL/demo/src/test/java/com/math/mathutil/MathFunction.java" timestamp="1511862437301">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
         <mark key="^" line="16" column="7" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="F:/projectL/demo/src/test/web/closure.html" timestamp="1501223903423">
         <mark key="." line="11" column="50" />
@@ -270,7 +273,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdCBlID0gNS41ZjsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZCgpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
@@ -281,30 +284,31 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmbG9hdCBlID0gNS41ZjsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChkKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZCgpKTsK</text>
+      </register>
+      <register name="2" type="4">
+        <text>f));
+        System.out.println(Math.round(f</text>
+      </register>
+      <register name="3" type="4">
         <text>c = -1.5f;
         System</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChjKSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChjKSk7Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdCBjID0gLTEuNWY7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChjKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdCBjID0gLTEuNWY7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChjKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZXQ8VHVwbGU+IGEgPSBjb25uLnpyYW5nZVdpdGhTY29yZXMoIiIsIDAsIDApOwo=</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdCBjID0gLTEuNWY7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdCBjID0gLTEuNWY7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZXQ8VHVwbGU+IGEgPSBjb25uLnpyYW5nZVdpdGhTY29yZXMoIiIsIDAsIDApOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
