@@ -58,8 +58,13 @@ nnoremap <leader>v Vi}
 noremap <leader>h <Esc>:nohls<CR>
 
 
+" 左右方向键
+inoremap jj <Left>
+inoremap ii <Right>
 " kj 替换 Esc
 inoremap kj <Esc>
+" 替换 Esc
+inoremap <C-g> <Esc>:set relativenumber number<CR>
 " inoremap <Esc> <Esc>:set relativenumber number<CR>
 " nnoremap i <Esc>:set norelativenumber number<CR>i
 " nnoremap A <Esc>:set norelativenumber number<CR>A
@@ -110,6 +115,4 @@ nnoremap - $
 nnoremap + ddp
 nnoremap _ ddkP
 
-" 替换 Esc
-inoremap <C-g> <Esc>:set relativenumber number<CR>
 
