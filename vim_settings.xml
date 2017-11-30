@@ -74,11 +74,11 @@
       <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/business/WithdrawBusiness.java" timestamp="1468849048207">
         <mark key="[" line="53" column="12" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/com/pinyin/Pinyin4jTest.java" timestamp="1511949500327">
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="14" column="7" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="14" column="7" />
+      <file name="F:/projectL/demo/src/test/java/com/pinyin/Pinyin4jTest.java" timestamp="1511950348822">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="15" column="7" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="F:/projectL/coding2017/students/402246209/learning/src/main/java/com/mimieye/odd/srp/PromotionAbstractMail.java" timestamp="1497367023011">
         <mark key="." line="87" column="37" />
@@ -277,11 +277,16 @@
       <jump line="91" column="16" filename="F:/projectL/demo/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZCgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>import net.sourceforge.pinyin4j.PinyinHelper;
+import net.sourceforge.pinyin4j.format.HanyuPinyinCaseType;
+import net.sourceforge.pinyin4j.format.HanyuPinyinOutputFormat;
+import net.sourceforge.pinyin4j.format.HanyuPinyinToneType;
+import net.sourceforge.pinyin4j.format.HanyuPinyinVCharType;
+import net.sourceforge.pinyin4j.format.exception.BadHanyuPinyinOutputFormatCombination;</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>tuple</text>
@@ -289,34 +294,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmbG9hdCBlID0gNS41ZjsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChkKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>import net.sourceforge.pinyin4j.PinyinHelper;
+import net.sourceforge.pinyin4j.format.HanyuPinyinCaseType;
+import net.sourceforge.pinyin4j.format.HanyuPinyinOutputFormat;
+import net.sourceforge.pinyin4j.format.HanyuPinyinToneType;
+import net.sourceforge.pinyin4j.format.HanyuPinyinVCharType;
+import net.sourceforge.pinyin4j.format.exception.BadHanyuPinyinOutputFormatCombination;</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZCgpKTsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>f));
         System.out.println(Math.round(f</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>c = -1.5f;
         System</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChjKSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChjKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdCBjID0gLTEuNWY7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChjKSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBmbG9hdCBjID0gLTEuNWY7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZXQ8VHVwbGU+IGEgPSBjb25uLnpyYW5nZVdpdGhTY29yZXMoIiIsIDAsIDApOwo=</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdCBjID0gLTEuNWY7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZXQ8VHVwbGU+IGEgPSBjb25uLnpyYW5nZVdpdGhTY29yZXMoIiIsIDAsIDApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
