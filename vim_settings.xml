@@ -122,12 +122,12 @@
         <mark key="^" line="171" column="18" />
         <mark key="." line="171" column="18" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/httpclient/HttpClientTest.java" timestamp="1512101048872">
-        <mark key="'" line="194" column="22" />
+      <file name="F:/projectL/demo/src/test/java/httpclient/HttpClientTest.java" timestamp="1512103793932">
+        <mark key="'" line="161" column="86" />
         <mark key="[" line="161" column="38" />
-        <mark key="]" line="161" column="54" />
-        <mark key="^" line="161" column="14" />
-        <mark key="." line="161" column="72" />
+        <mark key="]" line="161" column="86" />
+        <mark key="^" line="161" column="86" />
+        <mark key="." line="161" column="86" />
       </file>
       <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/business/mybatis/TaskGetBusiness.java" timestamp="1465225091426">
         <mark key="[" line="102" column="7" />
@@ -188,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
       <jump line="143" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
       <jump line="179" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
       <jump line="208" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
@@ -288,6 +287,7 @@
       <jump line="553" column="24" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" />
       <jump line="91" column="16" filename="F:/projectL/demo/pom.xml" />
       <jump line="170" column="22" filename="F:/projectL/demo/src/test/java/httpclient/HttpClientTest.java" />
+      <jump line="161" column="86" filename="F:/projectL/demo/src/test/java/httpclient/HttpClientTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
