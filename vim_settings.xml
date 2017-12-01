@@ -122,12 +122,12 @@
         <mark key="^" line="171" column="18" />
         <mark key="." line="171" column="18" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/httpclient/HttpClientTest.java" timestamp="1512029321180">
+      <file name="F:/projectL/demo/src/test/java/httpclient/HttpClientTest.java" timestamp="1512101048872">
         <mark key="'" line="194" column="22" />
-        <mark key="[" line="118" column="70" />
-        <mark key="]" line="161" column="69" />
-        <mark key="^" line="151" column="18" />
-        <mark key="." line="151" column="18" />
+        <mark key="[" line="161" column="38" />
+        <mark key="]" line="161" column="54" />
+        <mark key="^" line="161" column="14" />
+        <mark key="." line="161" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/business/mybatis/TaskGetBusiness.java" timestamp="1465225091426">
         <mark key="[" line="102" column="7" />
@@ -290,11 +290,11 @@
       <jump line="170" column="22" filename="F:/projectL/demo/src/test/java/httpclient/HttpClientTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBVcmxFbmNvZGVkRm9ybUVudGl0eSB1ZWZFbnRpdHk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgdWVmRW50aXR5ID0gbmV3IFVybEVuY29kZWRGb3JtRW50aXR5KGZvcm1wYXJhbXMsICJVVEYtOCIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>InputStreamEntity</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>tuple</text>
@@ -302,19 +302,27 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmbG9hdCBlID0gNS41ZjsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChkKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="1" type="4">
+        <text>{
+              
+            }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChLZXlTdG9yZUV4Y2VwdGlvbiBlKSB7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBpbnQgcmVhZCgpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChLZXlTdG9yZUV4Y2VwdGlvbiBlKSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9IGNhdGNoIChOb1N1Y2hBbGdvcml0aG1FeGNlcHRpb24gZSkgewo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>private void run() {
         CloseableHttpClient httpclient = HttpClients.createDefault();
         try {
@@ -355,23 +363,16 @@
         }
     }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+bmV0LnNmLmRvemVyPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5kb3plcjwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+NS41LjE8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>import net.sourceforge.pinyin4j.PinyinHelper;
 import net.sourceforge.pinyin4j.format.HanyuPinyinCaseType;
 import net.sourceforge.pinyin4j.format.HanyuPinyinOutputFormat;
 import net.sourceforge.pinyin4j.format.HanyuPinyinToneType;
 import net.sourceforge.pinyin4j.format.HanyuPinyinVCharType;
 import net.sourceforge.pinyin4j.format.exception.BadHanyuPinyinOutputFormatCombination;</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZCgpKTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text>f));
-        System.out.println(Math.round(f</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
