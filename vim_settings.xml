@@ -74,6 +74,12 @@
         <mark key="]" line="29" column="30" />
         <mark key="." line="29" column="30" />
       </file>
+      <file name="F:/projectL/demo/src/test/java/com/string/StringTest.java" timestamp="1512106862065">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/business/WithdrawBusiness.java" timestamp="1468849048207">
         <mark key="[" line="53" column="12" />
       </file>
@@ -144,12 +150,12 @@
       <file name="F:/projectL/demo/src/test/web/closure.html" timestamp="1501223903423">
         <mark key="." line="11" column="50" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/com/string/CharsetTest.java" timestamp="1508837938184">
+      <file name="F:/projectL/demo/src/test/java/com/string/CharsetTest.java" timestamp="1512106887055">
         <mark key="'" line="12" column="8" />
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="11" />
-        <mark key="^" line="22" column="11" />
-        <mark key="." line="22" column="11" />
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/testdwz/src/main/java/com/testdwz/bean/Test.java" timestamp="1464547152387">
         <mark key="[" line="4" column="13" />
@@ -291,10 +297,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>InputStreamEntity</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>tuple</text>
@@ -303,26 +309,31 @@
         <text encoding="base64">ICAgICAgICBmbG9hdCBlID0gNS41ZjsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChkKSk7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text>String utf_8=&quot;hah哈哈哈哈哈&quot;;
+        String gbk=new String(utf_8.getBytes(),&quot;gbk&quot;);
+        System.out.println(gbk);</text>
+      </register>
+      <register name="2" type="4">
         <text>{
               
             }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBpbnQgcmVhZCgpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgICAgICAgICB9</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChLZXlTdG9yZUV4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChLZXlTdG9yZUV4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9IGNhdGNoIChOb1N1Y2hBbGdvcml0aG1FeGNlcHRpb24gZSkgewo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>private void run() {
         CloseableHttpClient httpclient = HttpClients.createDefault();
         try {
@@ -363,16 +374,8 @@
         }
     }</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+bmV0LnNmLmRvemVyPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5kb3plcjwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+NS41LjE8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>import net.sourceforge.pinyin4j.PinyinHelper;
-import net.sourceforge.pinyin4j.format.HanyuPinyinCaseType;
-import net.sourceforge.pinyin4j.format.HanyuPinyinOutputFormat;
-import net.sourceforge.pinyin4j.format.HanyuPinyinToneType;
-import net.sourceforge.pinyin4j.format.HanyuPinyinVCharType;
-import net.sourceforge.pinyin4j.format.exception.BadHanyuPinyinOutputFormatCombination;</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
