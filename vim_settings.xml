@@ -29,9 +29,6 @@
         <mark key="]" line="554" column="0" />
         <mark key="." line="569" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/comment/src/test/resources/mybatis/generatorConfig.properties" timestamp="1465047693280">
-        <mark key="." line="0" column="2435" />
-      </file>
       <file name="$USER_HOME$/Documents/comment/.gitignore" timestamp="1508221890826">
         <mark key="[" line="0" column="0" />
       </file>
@@ -40,13 +37,6 @@
         <mark key="]" line="97" column="7" />
         <mark key="." line="97" column="7" />
         <mark key="^" line="97" column="7" />
-      </file>
-      <file name="F:/projectL/demo/src/test/java/com/entity/TestBean.java" timestamp="1500520022413">
-        <mark key="'" line="26" column="0" />
-        <mark key="." line="5" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/comment/src/test/java/Cglib/DoThings.java" timestamp="1469101329564">
-        <mark key="." line="18" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/comment/src/test/java/JDKProxy/DoSomething.java" timestamp="1469029336446">
         <mark key="[" line="24" column="28" />
@@ -64,11 +54,11 @@
       <file name="$USER_HOME$/IdeaProjects/testint/pom.xml" timestamp="1464617364641">
         <mark key="[" line="35" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/business/TaskGetLogicBusiness.java" timestamp="1466088763442">
-        <mark key="." line="44" column="14" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/testinta/pom.xml" timestamp="1464616233663">
         <mark key="[" line="35" column="39" />
+      </file>
+      <file name="F:/projectL/demo/src/test/java/com/mina/code/CharsetDecoder.java" timestamp="1512452384247">
+        <mark key="[" line="10" column="27" />
       </file>
       <file name="F:/projectL/demo/src/test/java/test/system/config/SystemConfigTest.java" timestamp="1508223350240">
         <mark key="[" line="29" column="29" />
@@ -90,12 +80,6 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="F:/projectL/coding2017/students/402246209/learning/src/main/java/com/mimieye/odd/srp/PromotionAbstractMail.java" timestamp="1497367023011">
-        <mark key="." line="87" column="37" />
-      </file>
-      <file name="F:/projectL/coding2017/students/402246209/learning/src/main/java/com/mimieye/odd/srp/controller/PromotionAbstractMail.java" timestamp="1497679088854">
-        <mark key="." line="100" column="87" />
-      </file>
       <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/bean/TaskinfoDetail.java" timestamp="1466085082570">
         <mark key="[" line="27" column="5" />
         <mark key="]" line="27" column="5" />
@@ -112,6 +96,9 @@
       </file>
       <file name="/Dummy.txt" timestamp="1512016877808">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/projectL/demo/src/test/java/com/mina/code/CharsetEncoder.java" timestamp="1512452413135">
+        <mark key="[" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/testinta/src/test/resources/mybatis/demo.sql" timestamp="1464616138439">
         <mark key="[" line="56" column="40" />
@@ -139,17 +126,11 @@
       <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/business/mybatis/TaskGetBusiness.java" timestamp="1465225091426">
         <mark key="[" line="102" column="7" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/com/example/BinaryTreeTest.java" timestamp="1493994414348">
-        <mark key="." line="192" column="56" />
-      </file>
       <file name="F:/projectL/demo/src/test/java/com/math/mathutil/MathFunction.java" timestamp="1511862437301">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="16" column="7" />
         <mark key="." line="21" column="0" />
-      </file>
-      <file name="F:/projectL/demo/src/test/web/closure.html" timestamp="1501223903423">
-        <mark key="." line="11" column="50" />
       </file>
       <file name="F:/projectL/demo/src/test/java/com/string/CharsetTest.java" timestamp="1512106887055">
         <mark key="'" line="12" column="8" />
@@ -164,9 +145,6 @@
       <file name="$USER_HOME$/IdeaProjects/testint/src/main/java/com/testint/util/session/UserSessionInterceptor.java" timestamp="1464703598792">
         <mark key="[" line="19" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/business/TaskinfoLogicBusiness.java" timestamp="1466083776302">
-        <mark key="." line="26" column="14" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/testint/src/main/java/com/testint/controller/mybatis/DemoController.java" timestamp="1464792650571">
         <mark key="[" line="109" column="46" />
         <mark key="]" line="110" column="11" />
@@ -179,7 +157,7 @@
         <mark key="^" line="51" column="35" />
       </file>
       <file name="F:/projectL/demo/src/test/java/com/mina/client/MinaClient.java" timestamp="1512444920684">
-        <mark key="[" line="10" column="25" />
+        <mark key="[" line="12" column="25" />
       </file>
       <file name="/fragment.java" timestamp="1511838811919">
         <mark key="[" line="0" column="0" />
