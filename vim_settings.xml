@@ -46,11 +46,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/com/mina/MinaCommon.java" timestamp="1512473798569">
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="7" column="41" />
-        <mark key="." line="7" column="41" />
-        <mark key="^" line="26" column="30" />
+      <file name="F:/projectL/demo/src/test/java/com/mina/MinaCommon.java" timestamp="1512477004710">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+        <mark key="^" line="11" column="3" />
       </file>
       <file name="F:/projectL/demo/pom.xml" timestamp="1512444593379">
         <mark key="'" line="91" column="16" />
@@ -112,11 +112,12 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/com/rsa/RSAUtil.java" timestamp="1512463091137">
-        <mark key="[" line="7" column="63" />
-        <mark key="]" line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="23" />
+      <file name="F:/projectL/demo/src/test/java/com/rsa/RSAUtil.java" timestamp="1512478529581">
+        <mark key="'" line="71" column="53" />
+        <mark key="[" line="222" column="65" />
+        <mark key="]" line="229" column="46" />
+        <mark key="." line="226" column="0" />
+        <mark key="^" line="219" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/testinta/src/main/java/com/testint/controller/mybatis/DemoController.java" timestamp="1464616062816">
         <mark key="[" line="59" column="49" />
@@ -194,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
       <jump line="219" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
       <jump line="11" column="0" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
       <jump line="43" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
@@ -294,46 +294,47 @@
       <jump line="161" column="86" filename="F:/projectL/demo/src/test/java/httpclient/HttpClientTest.java" />
       <jump line="116" column="19" filename="F:/projectL/demo/src/test/java/com/mina/client/MinaClient.java" />
       <jump line="0" column="0" filename="F:/projectL/demo/src/test/java/com/mina/client/MinaClient.java" />
+      <jump line="52" column="53" filename="F:/projectL/demo/src/test/java/com/rsa/RSAUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MinaCommon.msgLength</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjYWxlbmRhci5zZXQoQ2FsZW5kYXIuSE9VUl9PRl9EQVksIDApOwogICAgICAgIGNhbGVuZGFyLnNldChDYWxlbmRhci5NSU5VVEUsIDApOwogICAgICAgIGNhbGVuZGFyLnNldChDYWxlbmRhci5TRUNPTkQsIDApOwogICAgICAgIGNhbGVuZGFyLnNldChDYWxlbmRhci5NSUxMSVNFQ09ORCwgMCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>CharsetEncoder</text>
+        <text>MINUTE</text>
       </register>
       <register name="/" type="4">
         <text>public\|private\|protect</text>
       </register>
-      <register name="0" type="4">
-        <text>mina client receive msg:</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjYWxlbmRhci5zZXQoQ2FsZW5kYXIuSE9VUl9PRl9EQVksIDApOwogICAgICAgIGNhbGVuZGFyLnNldChDYWxlbmRhci5NSU5VVEUsIDApOwogICAgICAgIGNhbGVuZGFyLnNldChDYWxlbmRhci5TRUNPTkQsIDApOwogICAgICAgIGNhbGVuZGFyLnNldChDYWxlbmRhci5NSUxMSVNFQ09ORCwgMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqYXZhLnNlY3VyaXR5LmNlcnQuQ2VydGlmaWNhdGVpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEVOQ09ESU5HID0gIlVURi04IjsK</text>
+        <text encoding="base64">ICAgICAgICBVUkxFbmNvZGVyLgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImVuY29kZSBzdGFydC4iKTsKICAgICAgICBDaGFyc2V0IGNoYXJzZXQgPSBDaGFyc2V0LmZvck5hbWUoRU5DT0RJTkcpOwogICAgICAgIElvQnVmZmVyIGJ1ZmYgPSBJb0J1ZmZlci5hbGxvY2F0ZSgxMDApLnNldEF1dG9FeHBhbmQodHJ1ZSk7CiAgICAgICAgU3RyaW5nIG1zZyA9IG1lc3NhZ2UudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEVOQ09ESU5HID0gIlVURi04IjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5tZXNzYWdlUmVjZWl2ZWQoc2Vzc2lvbiwgbWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImVuY29kZSBzdGFydC4iKTsKICAgICAgICBDaGFyc2V0IGNoYXJzZXQgPSBDaGFyc2V0LmZvck5hbWUoRU5DT0RJTkcpOwogICAgICAgIElvQnVmZmVyIGJ1ZmYgPSBJb0J1ZmZlci5hbGxvY2F0ZSgxMDApLnNldEF1dG9FeHBhbmQodHJ1ZSk7CiAgICAgICAgU3RyaW5nIG1zZyA9IG1lc3NhZ2UudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5tZXNzYWdlU2VudChzZXNzaW9uLCBtZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5leGNlcHRpb25DYXVnaHQoc2Vzc2lvbiwgY2F1c2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5tZXNzYWdlUmVjZWl2ZWQoc2Vzc2lvbiwgbWVzc2FnZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5zZXNzaW9uT3BlbmVkKHNlc3Npb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5tZXNzYWdlU2VudChzZXNzaW9uLCBtZXNzYWdlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
