@@ -10,8 +10,8 @@
   <action id="ContextHelp" />
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
-  <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="ctrl d" />
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="EditorToggleColumnMode">

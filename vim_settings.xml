@@ -54,6 +54,7 @@
         <mark key="^" line="20" column="35" />
         <mark key="." line="24" column="28" />
       </file>
+      <file name="F:/AlibabaDubbo/demo-consumer/src/main/java/com/mimieye/controller/DubboTestController.java" timestamp="1512437058603" />
       <file name="$USER_HOME$/Documents/comment/pom.xml" timestamp="1466003321798">
         <mark key="[" line="248" column="8" />
       </file>
@@ -386,7 +387,7 @@
       <last-offset />
       <last-pattern>tuple</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
