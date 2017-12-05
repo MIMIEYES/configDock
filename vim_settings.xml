@@ -5,11 +5,6 @@
       <mark key="M" line="25" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Documents/comment/src/test/java/JDKProxy/JDKProxyTestMain.java" timestamp="1491647521777">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="24" />
-      </file>
       <file name="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" timestamp="1511863178344">
         <mark key="[" line="554" column="0" />
         <mark key="m" line="357" column="42" />
@@ -37,22 +32,17 @@
       <file name="F:/projectL/demo/src/test/java/com/mina/code/CharsetDecoder.java" timestamp="1512452384247">
         <mark key="[" line="10" column="27" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/test/system/config/SystemConfigTest.java" timestamp="1508223350240">
-        <mark key="[" line="29" column="29" />
-        <mark key="]" line="29" column="30" />
-        <mark key="." line="29" column="30" />
-      </file>
       <file name="F:/projectL/demo/src/test/java/com/string/StringTest.java" timestamp="1512106862065">
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="7" />
         <mark key="." line="15" column="7" />
         <mark key="^" line="15" column="7" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/com/mina/code/CharsetEncoder.java" timestamp="1512460867100">
-        <mark key="[" line="23" column="40" />
-        <mark key="]" line="19" column="33" />
-        <mark key="." line="19" column="33" />
-        <mark key="^" line="19" column="33" />
+      <file name="F:/projectL/demo/src/test/java/com/mina/code/CharsetEncoder.java" timestamp="1512462970360">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="20" column="82" />
+        <mark key="." line="20" column="82" />
+        <mark key="^" line="20" column="82" />
       </file>
       <file name="F:/projectL/demo/src/test/java/com/mina/MinaCommon.java" timestamp="1512460906967">
         <mark key="[" line="5" column="25" />
@@ -117,6 +107,12 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="F:/projectL/demo/src/test/java/com/rsa/RSAUtil.java" timestamp="1512463091137">
+        <mark key="[" line="7" column="63" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/testinta/src/main/java/com/testint/controller/mybatis/DemoController.java" timestamp="1464616062816">
         <mark key="[" line="59" column="49" />
         <mark key="]" line="60" column="54" />
@@ -147,11 +143,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="15" column="7" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/bean/TaskinfoDetail.java" timestamp="1466085082570">
-        <mark key="[" line="27" column="5" />
-        <mark key="]" line="27" column="5" />
-        <mark key="." line="42" column="71" />
       </file>
       <file name="F:/projectL/demo/src/test/java/com/mina/server/MinaServer.java" timestamp="1512456590905">
         <mark key="[" line="51" column="70" />
@@ -187,7 +178,7 @@
         <mark key="^" line="72" column="78" />
         <mark key="." line="72" column="55" />
       </file>
-      <file name="/fragment.java" timestamp="1511838811919">
+      <file name="/fragment.java" timestamp="1512463064429">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/controller/mybatis/TaskinfoController.java" timestamp="1465130611264">
@@ -301,10 +292,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>S</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>public\|private\|protect</text>
