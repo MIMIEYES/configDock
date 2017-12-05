@@ -5,11 +5,6 @@
       <mark key="M" line="25" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Documents/comment/src/test/java/JDKProxy/JDKProxyTestMain.java" timestamp="1491647521777">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="24" />
-      </file>
       <file name="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter05.java" timestamp="1511863178344">
         <mark key="[" line="554" column="0" />
         <mark key="m" line="357" column="42" />
@@ -34,16 +29,11 @@
       <file name="$USER_HOME$/IdeaProjects/testinta/pom.xml" timestamp="1464616233663">
         <mark key="[" line="35" column="39" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/com/mina/code/CharsetDecoder.java" timestamp="1512473588247">
-        <mark key="[" line="23" column="51" />
-        <mark key="]" line="23" column="50" />
-        <mark key="^" line="23" column="50" />
-        <mark key="." line="23" column="50" />
-      </file>
-      <file name="F:/projectL/demo/src/test/java/test/system/config/SystemConfigTest.java" timestamp="1508223350240">
-        <mark key="[" line="29" column="29" />
-        <mark key="]" line="29" column="30" />
-        <mark key="." line="29" column="30" />
+      <file name="F:/projectL/demo/src/test/java/com/mina/code/CharsetDecoder.java" timestamp="1512473971734">
+        <mark key="[" line="37" column="34" />
+        <mark key="]" line="37" column="30" />
+        <mark key="^" line="37" column="30" />
+        <mark key="." line="37" column="30" />
       </file>
       <file name="F:/projectL/demo/src/test/java/com/string/StringTest.java" timestamp="1512106862065">
         <mark key="[" line="15" column="7" />
@@ -51,12 +41,12 @@
         <mark key="." line="15" column="7" />
         <mark key="^" line="15" column="7" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/com/mina/code/CharsetEncoder.java" timestamp="1512473396050">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="F:/projectL/demo/src/test/java/com/mina/code/CharsetEncoder.java" timestamp="1512474557714">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/com/mina/MinaCommon.java" timestamp="1512473553500">
+      <file name="F:/projectL/demo/src/test/java/com/mina/MinaCommon.java" timestamp="1512473798569">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="7" column="41" />
         <mark key="." line="7" column="41" />
@@ -158,11 +148,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="15" column="7" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/bean/TaskinfoDetail.java" timestamp="1466085082570">
-        <mark key="[" line="27" column="5" />
-        <mark key="]" line="27" column="5" />
-        <mark key="." line="42" column="71" />
       </file>
       <file name="F:/projectL/demo/src/test/java/com/mina/server/MinaServer.java" timestamp="1512456590905">
         <mark key="[" line="51" column="70" />
