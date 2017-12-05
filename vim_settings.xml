@@ -156,10 +156,8 @@
         <mark key="n" line="46" column="4" />
         <mark key="^" line="51" column="35" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/com/mina/client/MinaClient.java" timestamp="1512453334703">
-        <mark key="[" line="32" column="95" />
-        <mark key="]" line="32" column="95" />
-        <mark key="." line="32" column="95" />
+      <file name="F:/projectL/demo/src/test/java/com/mina/client/MinaClient.java" timestamp="1512454059434">
+        <mark key="^" line="75" column="35" />
       </file>
       <file name="/fragment.java" timestamp="1511838811919">
         <mark key="[" line="0" column="0" />
@@ -281,16 +279,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>mina client receive msg:</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>tuple</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdCBlID0gNS41ZjsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5yb3VuZChkKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>mina client receive msg:</text>
       </register>
       <register name="1" type="4">
         <text>String utf_8=&quot;hah哈哈哈哈哈&quot;;
