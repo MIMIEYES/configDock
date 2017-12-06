@@ -48,11 +48,21 @@
         <mark key="." line="15" column="7" />
         <mark key="^" line="15" column="7" />
       </file>
+      <file name="F:/projectL/demo/src/test/java/com/netty/client/RequestMsgClientHandler.java" timestamp="1512551096238">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+      </file>
       <file name="F:/projectL/demo/src/test/java/com/concurrent/threadpool/Worker.java" timestamp="1512546481978">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
+      </file>
+      <file name="F:/projectL/demo/src/test/java/com/netty/server/NettyServerTest.java" timestamp="1512551200927">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="F:/projectL/demo/src/test/java/com/mina/code/CharsetEncoder.java" timestamp="1512474557714">
         <mark key="[" line="21" column="0" />
@@ -90,6 +100,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="16" column="7" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="F:/projectL/demo/src/test/java/com/netty/server/HelloWorldServerHandler.java" timestamp="1512551183629">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
       </file>
       <file name="F:/projectL/demo/src/test/java/com/string/CharsetTest.java" timestamp="1512106887055">
         <mark key="'" line="12" column="8" />
@@ -148,7 +163,6 @@
         <mark key="^" line="20" column="35" />
         <mark key="." line="24" column="28" />
       </file>
-      <file name="F:/AlibabaDubbo/demo-consumer/src/main/java/com/mimieye/controller/DubboTestController.java" timestamp="1512437058603" />
       <file name="$USER_HOME$/IdeaProjects/testint/pom.xml" timestamp="1464617364641">
         <mark key="[" line="35" column="34" />
       </file>
@@ -190,11 +204,21 @@
       <file name="F:/SourceCode/redis/redis-in-action/java/src/main/java/guo4shou3/C05.java" timestamp="1511862951878">
         <mark key="[" line="5" column="18" />
       </file>
+      <file name="F:/projectL/demo/src/test/java/com/netty/client/NettyClientTest.java" timestamp="1512551111857">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1512016877808">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/testinta/src/test/resources/mybatis/demo.sql" timestamp="1464616138439">
         <mark key="[" line="56" column="40" />
+      </file>
+      <file name="F:/projectL/demo/src/test/java/com/netty/client/MyChannelInitializer.java" timestamp="1512550855809">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/testdwz/pom.xml" timestamp="1464547278242">
         <mark key="[" line="41" column="25" />
@@ -220,8 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="10" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
-      <jump line="44" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
       <jump line="74" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
       <jump line="111" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
       <jump line="116" column="4" filename="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" />
@@ -320,13 +342,15 @@
       <jump line="39" column="3" filename="F:/projectL/demo/src/test/java/com/concurrent/threadpool/DefaultThreadPool.java" />
       <jump line="54" column="8" filename="F:/projectL/demo/src/test/java/com/concurrent/threadpool/DefaultThreadPool.java" />
       <jump line="100" column="43" filename="F:/projectL/demo/src/test/java/com/concurrent/threadpool/DefaultThreadPool.java" />
+      <jump line="55" column="0" filename="F:/projectL/demo/src/test/java/com/netty/client/NettyClientTest.java" />
+      <jump line="60" column="0" filename="F:/projectL/demo/src/test/java/com/netty/server/NettyServerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgSGVsbG9Xb3JsZFNlcnZlckhhbmRsZXIgZXh0ZW5kcyBDaGFubmVsSW5ib3VuZEhhbmRsZXJBZGFwdGVyIHsKCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGNoYW5uZWxSZWFkKENoYW5uZWxIYW5kbGVyQ29udGV4dCBjdHgsIE9iamVjdCBtc2cpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInNlcnZlciBzdGFydCB0byB3cml0ZSBtc2cuIik7CiAgICAgICAgY3R4LndyaXRlKG1zZyk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBjaGFubmVsUmVhZENvbXBsZXRlKENoYW5uZWxIYW5kbGVyQ29udGV4dCBjdHgpIHsKICAgICAgICBjdHgud3JpdGVBbmRGbHVzaChVbnBvb2xlZC5FTVBUWV9CVUZGRVIpCiAgICAgICAgLmFkZExpc3RlbmVyKENoYW5uZWxGdXR1cmVMaXN0ZW5lci5DTE9TRSk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBleGNlcHRpb25DYXVnaHQoQ2hhbm5lbEhhbmRsZXJDb250ZXh0IGN0eCwgVGhyb3dhYmxlIGNhdXNlKSB7CiAgICAgICAgLy8gQ2xvc2UgdGhlIGNvbm5lY3Rpb24gd2hlbiBhbiBleGNlcHRpb24gaXMgcmFpc2VkLgogICAgICAgIGNhdXNlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIGN0eC5jbG9zZSgpOwogICAgfQp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">Y2xhc3MgTXlDaGFubmVsSW5pdGlhbGl6ZXIg</text>
       </register>
       <register name="/" type="4">
         <text>public\|private\|protect</text>
@@ -335,32 +359,33 @@
         <text>initializeWorkers</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgV29ya2VyIGltcGxlbWVudHMgUnVubmFibGV7CiAgICBwcml2YXRlIHZvbGF0aWxlIGJvb2xlYW4gcnVubmluZyA9IHRydWU7CgoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcnVuKCkgewogICAgICAgIHdoaWxlIChydW5uaW5nKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihUaHJlYWQuY3VycmVudFRocmVhZCgpLmdldE5hbWUoKSArICItuaTX98/fs8zXvLG4u/HIocjOzvEuIik7CiAgICAgICAgICAgIEpvYiBqb2IgPSBudWxsOwogICAgICAgICAgICBzeW5jaHJvbml6ZWQgKERlZmF1bHRUaHJlYWRQb29sKQogICAgICAgIH0KICAgIH0KfQo=</text>
+        <text encoding="base64">Y2xhc3MgSGVsbG9Xb3JsZFNlcnZlckhhbmRsZXIgZXh0ZW5kcyBDaGFubmVsSW5ib3VuZEhhbmRsZXJBZGFwdGVyIHsKCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGNoYW5uZWxSZWFkKENoYW5uZWxIYW5kbGVyQ29udGV4dCBjdHgsIE9iamVjdCBtc2cpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInNlcnZlciBzdGFydCB0byB3cml0ZSBtc2cuIik7CiAgICAgICAgY3R4LndyaXRlKG1zZyk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBjaGFubmVsUmVhZENvbXBsZXRlKENoYW5uZWxIYW5kbGVyQ29udGV4dCBjdHgpIHsKICAgICAgICBjdHgud3JpdGVBbmRGbHVzaChVbnBvb2xlZC5FTVBUWV9CVUZGRVIpCiAgICAgICAgLmFkZExpc3RlbmVyKENoYW5uZWxGdXR1cmVMaXN0ZW5lci5DTE9TRSk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBleGNlcHRpb25DYXVnaHQoQ2hhbm5lbEhhbmRsZXJDb250ZXh0IGN0eCwgVGhyb3dhYmxlIGNhdXNlKSB7CiAgICAgICAgLy8gQ2xvc2UgdGhlIGNvbm5lY3Rpb24gd2hlbiBhbiBleGNlcHRpb24gaXMgcmFpc2VkLgogICAgICAgIGNhdXNlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIGN0eC5jbG9zZSgpOwogICAgfQp9Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMGw7Cg==</text>
+      <register name="2" type="4">
+        <text>class HelloWorldServerHandler {
+}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgUmVxdWVzdE1zZ0NsaWVudEhhbmRsZXIgZXh0ZW5kcyBDaGFubmVsSW5ib3VuZEhhbmRsZXJBZGFwdGVyIHsKICAgIHByaXZhdGUgU3RyaW5nIG1zZyA9ICJoZWxsbyBqYXZhIHdvcmxkIjsKCiAgICBwdWJsaWMgUmVxdWVzdE1zZ0NsaWVudEhhbmRsZXIoKXt9CiAgICBwdWJsaWMgUmVxdWVzdE1zZ0NsaWVudEhhbmRsZXIoU3RyaW5nIG1zZyl7dGhpcy5tc2cgPSBtc2c7fQoKCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGNoYW5uZWxBY3RpdmUoQ2hhbm5lbEhhbmRsZXJDb250ZXh0IGN0eCkgewogICAgICAgIGN0eC53cml0ZUFuZEZsdXNoKG1zZyk7CiAgICB9CgoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgY2hhbm5lbFJlYWQoQ2hhbm5lbEhhbmRsZXJDb250ZXh0IGN0eCwgT2JqZWN0IG1zZykgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtc2cpOwogICAgICAgIC8vICAgICAgICBjdHgud3JpdGUobXNnKTsKCiAgICB9CgoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgY2hhbm5lbFJlYWRDb21wbGV0ZShDaGFubmVsSGFuZGxlckNvbnRleHQgY3R4KSB7CiAgICAgICAgY3R4LmZsdXNoKCk7CiAgICAgICAgLy9jdHguY2xvc2UoKTsKICAgIH0KCgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBleGNlcHRpb25DYXVnaHQoQ2hhbm5lbEhhbmRsZXJDb250ZXh0IGN0eCwgVGhyb3dhYmxlIGNhdXNlKSB7CiAgICAgICAgLy8gQ2xvc2UgdGhlIGNvbm5lY3Rpb24gd2hlbiBhbiBleGNlcHRpb24gaXMgcmFpc2VkLgogICAgICAgIGNhdXNlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIGN0eC5jbG9zZSgpOwogICAgfQp9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="4" type="4">
+        <text>class RequestMsgClientHandler {
+}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Y2xhc3MgTXlDaGFubmVsSW5pdGlhbGl6ZXI8VCBleHRlbmRzIENoYW5uZWxJbmJvdW5kSGFuZGxlckFkYXB0ZXI+IGV4dGVuZHMgQ2hhbm5lbEluaXRpYWxpemVyPFNvY2tldENoYW5uZWw+ewogICAgcHJpdmF0ZSBUIHQ7CgogICAgcHVibGljIE15Q2hhbm5lbEluaXRpYWxpemVyKFQgdCl7CiAgICAgICAgdGhpcy50ID0gdDsKICAgIH0KCiAgICBwdWJsaWMgTXlDaGFubmVsSW5pdGlhbGl6ZXIoKXsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgdm9pZCBpbml0Q2hhbm5lbChTb2NrZXRDaGFubmVsIHNvY2tldENoYW5uZWwpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIENoYW5uZWxQaXBlbGluZSBwID0gc29ja2V0Q2hhbm5lbC5waXBlbGluZSgpOwogICAgICAgIHAuYWRkTGFzdChuZXcgTG9nZ2luZ0hhbmRsZXIoTG9nTGV2ZWwuREVCVUcpKTsKICAgICAgICBwLmFkZExhc3QoImVuY29kZXIwIixuZXcgTGVuZ3RoRmllbGRQcmVwZW5kZXIoOCxmYWxzZSkpOwogICAgICAgIHAuYWRkTGFzdCgiZW5jb2RlcjEiLG5ldyBTdHJpbmdFbmNvZGVyKENoYXJzZXQuZm9yTmFtZSgiVVRGLTgiKSkpOwogICAgICAgIHAuYWRkTGFzdCgKICAgICAgICAgICAgICAgIC8vbmV3IE9iamVjdEVuY29kZXIoKSwKICAgICAgICAgICAgICAgIC8vbmV3IE9iamVjdERlY29kZXIoQ2xhc3NSZXNvbHZlcnMuY2FjaGVEaXNhYmxlZChudWxsKSksCiAgICAgICAgICAgICAgICB0KTsKICAgIH0KfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
-      <register name="8" type="4">
-        <text>Connection() {
-            }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Y2xhc3MgTXlDaGFubmVsSW5pdGlhbGl6ZXI8VCBleHRlbmRzIENoYW5uZWxJbmJvdW5kSGFuZGxlckFkYXB0ZXI+IGV4dGVuZHMgQ2hhbm5lbEluaXRpYWxpemVyPFNvY2tldENoYW5uZWw+ewogICAgcHJpdmF0ZSBUIHQ7CgogICAgcHVibGljIE15Q2hhbm5lbEluaXRpYWxpemVyKFQgdCl7CiAgICAgICAgdGhpcy50ID0gdDsKICAgIH0KCiAgICBwdWJsaWMgTXlDaGFubmVsSW5pdGlhbGl6ZXIoKXsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgdm9pZCBpbml0Q2hhbm5lbChTb2NrZXRDaGFubmVsIHNvY2tldENoYW5uZWwpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIENoYW5uZWxQaXBlbGluZSBwID0gc29ja2V0Q2hhbm5lbC5waXBlbGluZSgpOwogICAgICAgIHAuYWRkTGFzdChuZXcgTG9nZ2luZ0hhbmRsZXIoTG9nTGV2ZWwuREVCVUcpKTsKICAgICAgICBwLmFkZExhc3QoImVuY29kZXIwIixuZXcgTGVuZ3RoRmllbGRQcmVwZW5kZXIoOCxmYWxzZSkpOwogICAgICAgIHAuYWRkTGFzdCgiZW5jb2RlcjEiLG5ldyBTdHJpbmdFbmNvZGVyKENoYXJzZXQuZm9yTmFtZSgiVVRGLTgiKSkpOwogICAgICAgIHAuYWRkTGFzdCgKICAgICAgICAgICAgICAgIC8vbmV3IE9iamVjdEVuY29kZXIoKSwKICAgICAgICAgICAgICAgIC8vbmV3IE9iamVjdERlY29kZXIoQ2xhc3NSZXNvbHZlcnMuY2FjaGVEaXNhYmxlZChudWxsKSksCiAgICAgICAgICAgICAgICB0KTsKICAgIH0KfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLnNlY3VyaXR5LmNlcnQuQ2VydGlmaWNhdGVpCg==</text>
+        <text encoding="base64">Y2xhc3MgV29ya2VyIGltcGxlbWVudHMgUnVubmFibGV7CiAgICBwcml2YXRlIHZvbGF0aWxlIGJvb2xlYW4gcnVubmluZyA9IHRydWU7CgoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcnVuKCkgewogICAgICAgIHdoaWxlIChydW5uaW5nKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihUaHJlYWQuY3VycmVudFRocmVhZCgpLmdldE5hbWUoKSArICItuaTX98/fs8zXvLG4u/HIocjOzvEuIik7CiAgICAgICAgICAgIEpvYiBqb2IgPSBudWxsOwogICAgICAgICAgICBzeW5jaHJvbml6ZWQgKERlZmF1bHRUaHJlYWRQb29sKQogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber number</text>
