@@ -46,6 +46,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="F:/projectL/demo/src/test/java/com/concurrent/threadpool/BulkExecuteMain.java" timestamp="1512530288613">
+        <mark key="[" line="39" column="57" />
+        <mark key="]" line="39" column="57" />
+        <mark key="^" line="41" column="19" />
+        <mark key="." line="39" column="57" />
+      </file>
       <file name="F:/projectL/demo/src/test/java/com/mina/MinaCommon.java" timestamp="1512477004710">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="12" column="31" />
@@ -94,11 +100,6 @@
         <mark key="^" line="110" column="11" />
         <mark key="." line="110" column="11" />
       </file>
-      <file name="F:/SourceCode/redis/redis-in-action/java/src/main/java/Chapter04.java" timestamp="1511851154961">
-        <mark key="'" line="0" column="0" />
-        <mark key="n" line="46" column="4" />
-        <mark key="^" line="51" column="35" />
-      </file>
       <file name="$USER_HOME$/Documents/comment/src/test/java/Cglib/SayMorningRule.java" timestamp="1469101231410">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -140,6 +141,12 @@
       <file name="F:/AlibabaDubbo/demo-consumer/src/main/java/com/mimieye/controller/DubboTestController.java" timestamp="1512437058603" />
       <file name="$USER_HOME$/IdeaProjects/testint/pom.xml" timestamp="1464617364641">
         <mark key="[" line="35" column="34" />
+      </file>
+      <file name="F:/projectL/demo/src/test/java/com/concurrent/threadpool/BulkExecuteUtil.java" timestamp="1512529987146">
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="30" column="40" />
+        <mark key="^" line="30" column="40" />
+        <mark key="." line="30" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/business/WithdrawBusiness.java" timestamp="1468849048207">
         <mark key="[" line="53" column="12" />
@@ -297,11 +304,11 @@
       <jump line="52" column="53" filename="F:/projectL/demo/src/test/java/com/rsa/RSAUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxlbmRhci5zZXQoQ2FsZW5kYXIuSE9VUl9PRl9EQVksIDApOwogICAgICAgIGNhbGVuZGFyLnNldChDYWxlbmRhci5NSU5VVEUsIDApOwogICAgICAgIGNhbGVuZGFyLnNldChDYWxlbmRhci5TRUNPTkQsIDApOwogICAgICAgIGNhbGVuZGFyLnNldChDYWxlbmRhci5NSUxMSVNFQ09ORCwgMCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>xxx</text>
       </register>
       <register name="-" type="4">
-        <text>MINUTE</text>
+        <text>xxx</text>
       </register>
       <register name="/" type="4">
         <text>public\|private\|protect</text>
@@ -309,32 +316,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjYWxlbmRhci5zZXQoQ2FsZW5kYXIuSE9VUl9PRl9EQVksIDApOwogICAgICAgIGNhbGVuZGFyLnNldChDYWxlbmRhci5NSU5VVEUsIDApOwogICAgICAgIGNhbGVuZGFyLnNldChDYWxlbmRhci5TRUNPTkQsIDApOwogICAgICAgIGNhbGVuZGFyLnNldChDYWxlbmRhci5NSUxMSVNFQ09ORCwgMCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLnNlY3VyaXR5LmNlcnQuQ2VydGlmaWNhdGVpCg==</text>
+      <register name="1" type="4">
+        <text>Connection() {
+            }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBVUkxFbmNvZGVyLgo=</text>
+        <text encoding="base64">ICAgICAgICBqYXZhLnNlY3VyaXR5LmNlcnQuQ2VydGlmaWNhdGVpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBVUkxFbmNvZGVyLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEVOQ09ESU5HID0gIlVURi04IjsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEVOQ09ESU5HID0gIlVURi04IjsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImVuY29kZSBzdGFydC4iKTsKICAgICAgICBDaGFyc2V0IGNoYXJzZXQgPSBDaGFyc2V0LmZvck5hbWUoRU5DT0RJTkcpOwogICAgICAgIElvQnVmZmVyIGJ1ZmYgPSBJb0J1ZmZlci5hbGxvY2F0ZSgxMDApLnNldEF1dG9FeHBhbmQodHJ1ZSk7CiAgICAgICAgU3RyaW5nIG1zZyA9IG1lc3NhZ2UudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImVuY29kZSBzdGFydC4iKTsKICAgICAgICBDaGFyc2V0IGNoYXJzZXQgPSBDaGFyc2V0LmZvck5hbWUoRU5DT0RJTkcpOwogICAgICAgIElvQnVmZmVyIGJ1ZmYgPSBJb0J1ZmZlci5hbGxvY2F0ZSgxMDApLnNldEF1dG9FeHBhbmQodHJ1ZSk7CiAgICAgICAgU3RyaW5nIG1zZyA9IG1lc3NhZ2UudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5tZXNzYWdlUmVjZWl2ZWQoc2Vzc2lvbiwgbWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5tZXNzYWdlU2VudChzZXNzaW9uLCBtZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5tZXNzYWdlUmVjZWl2ZWQoc2Vzc2lvbiwgbWVzc2FnZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
