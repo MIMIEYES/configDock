@@ -166,14 +166,6 @@
         <mark key="]" line="86" column="56" />
         <mark key="." line="86" column="56" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/com/concurrent/threadpool/BulkExecuteUtil.java" timestamp="1512545246309">
-        <mark key="'" line="46" column="4" />
-        <mark key="[" line="87" column="0" />
-        <mark key="m" line="18" column="76" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="85" column="38" />
-        <mark key="." line="87" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/business/WithdrawBusiness.java" timestamp="1468849048207">
         <mark key="[" line="53" column="12" />
       </file>
@@ -187,6 +179,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/controller/mybatis/DemoController.java" timestamp="1512722329105">
+        <mark key="[" line="95" column="29" />
+        <mark key="]" line="95" column="42" />
       </file>
       <file name="F:/projectL/demo/src/test/java/com/mina/server/MinaServer.java" timestamp="1512456590905">
         <mark key="[" line="51" column="70" />
@@ -214,8 +210,14 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512720569595">
+      <file name="/Dummy.txt" timestamp="1512722200739">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/mybatis/mapper/DemoMapper.xml" timestamp="1512722736355" />
+      <file name="$USER_HOME$/Documents/comment/src/main/java/net/yuanmomo/util/generator/PaginationBean.java" timestamp="1512722160314" />
+      <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/mybatis/mapper/DemoMapper.java" timestamp="1512722820416">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/testinta/src/test/resources/mybatis/demo.sql" timestamp="1464616138439">
         <mark key="[" line="56" column="40" />
@@ -352,7 +354,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>countByExample</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
