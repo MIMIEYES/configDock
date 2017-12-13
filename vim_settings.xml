@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="M" line="25" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
     </globalmarks>
@@ -54,7 +54,7 @@
         <mark key="]" line="13" column="5" />
         <mark key="." line="13" column="5" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/com/concurrent/ThreadTest.java" timestamp="1513156032466">
+      <file name="F:/projectL/demo/src/test/java/com/concurrent/ThreadTest.java" timestamp="1513156227144">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="54" column="22" />
         <mark key="]" line="54" column="22" />
