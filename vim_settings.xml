@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="M" line="25" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
     </globalmarks>
@@ -225,6 +225,12 @@
         <mark key="^" line="41" column="16" />
         <mark key="." line="41" column="16" />
       </file>
+      <file name="F:/projectL/demo/src/test/java/classload/ClassLoadTest.java" timestamp="1513239562957">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="12" column="30" />
+        <mark key="^" line="17" column="36" />
+        <mark key="." line="12" column="30" />
+      </file>
       <file name="/fragment.java" timestamp="1512718916709">
         <mark key="[" line="0" column="0" />
       </file>
@@ -339,10 +345,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>public\|private\|protect</text>
