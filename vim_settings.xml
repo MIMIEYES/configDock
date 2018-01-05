@@ -234,7 +234,11 @@
         <mark key="^" line="41" column="16" />
         <mark key="." line="41" column="16" />
       </file>
-      <file name="F:/projectL/demo/src/test/java/classload/ClassLoadTest.java" timestamp="1513300937077" />
+      <file name="F:/projectL/demo/src/test/java/com/mimieye/UnicodeTest.java" timestamp="1515120600482">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+      </file>
       <file name="/fragment.java" timestamp="1513240328637">
         <mark key="[" line="0" column="0" />
       </file>
@@ -349,16 +353,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>public\|private\|protect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJnZXREZW1vQnlLZXkuZG8iKQogICAgcHVibGljIFN0cmluZyBnZXREZW1vQnlLZXkoQFJlcXVlc3RQYXJhbSgiaWQiKSAgTG9uZyBpZCwgTW9kZWxNYXAgbWFwKSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgaWYoaWQgPT0gbnVsbCB8fCBpZCA8IDApewogICAgICAgICAgICAgICAgbWFwLnB1dCgibWVzc2FnZSIsIklEILTtzvOhoyIpOyAKICAgICAgICAgICAgICAgIHJldHVybiAib3V0IjsKICAgICAgICAgICAgfQogICAgICAgICAgICBEZW1vIHJlc3VsdCA9IHRoaXMuZGVtb0J1c2luZXNzLmdldERlbW9CeUtleShpZCk7CiAgICAgICAgICAgIG1hcC5wdXQoIm1lc3NhZ2UiLHJlc3VsdCk7CiAgICAgICAgfSBjYXRjaCAoQmFzZUV4Y2VwdGlvbiBlMSkgewogICAgICAgICAgICBtYXAucHV0KCJtZXNzYWdlIiwgZTEuZ2V0S2V5KCkpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcigi1ve8/LvxyKHP6sfp0uyzoztrZXk9IitpZCArIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgbWFwLnB1dCgibWVzc2FnZSIsItb3vPy78cihz+rH6dLss6M7a2V5PSIraWQgKyBlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiAib3V0IjsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b0hleFN0cmluZygnwV8nKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
