@@ -81,7 +81,7 @@ nnoremap <space> /
 noremap / /
 vnoremap / /
 " Press `f` to activate AceJump
-nnoremap <leader><leader>f :action AceAction<CR>
+nnoremap <leader>f :action AceAction<CR>
 " Press `F` to activate Target Mode
 nnoremap <leader><leader>F :action AceTargetAction<CR>
 " Press `g` to activate Line Mode
