@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="M" line="25" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
     </globalmarks>
@@ -403,7 +403,7 @@
       <last-offset />
       <last-pattern>public\|private\|protect</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
