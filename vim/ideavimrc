@@ -94,7 +94,7 @@ nnoremap <leader>b zb
 "nnoremap <leader><leader>p <Esc>/private<CR>
 "nnoremap <leader><leader>P <Esc>/public<CR>
 "nnoremap <leader><leader>p <Esc>/\(public\\\|private\\\|protect\\\|static\\\|void\)\(\s\+\w\+\)\+<CR>
-nnoremap <leader><leader>p <Esc>/public\\\|private\\\|protect<CR>
+nnoremap <leader><leader>p <Esc>/public \\\|private \\\|protect <CR>
 
 nnoremap <C-d> 5j
 nnoremap <C-u> 5k
