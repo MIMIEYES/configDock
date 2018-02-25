@@ -237,6 +237,10 @@
         <mark key="^" line="41" column="16" />
         <mark key="." line="41" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/nuls/event-bus-impl/src/main/java/io/nuls/event/bus/utils/disruptor/DisruptorUtil.java" timestamp="1519567951416">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="43" />
+      </file>
       <file name="F:/projectL/demo/src/test/java/com/mimieye/UnicodeTest.java" timestamp="1515120600482">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="10" column="27" />
@@ -355,8 +359,8 @@
       <jump line="31" column="4" filename="F:/projectL/demo/src/test/java/com/rsa/RSAUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBCbG9ja2luZ1dhaXRTdHJhdGVneSgpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
