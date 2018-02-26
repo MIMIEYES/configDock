@@ -1,0 +1,111 @@
+{
+    "workbench.sideBar.location": "left",
+    "workbench.colorTheme": "Jo Light",
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "simple-icons",
+    //"vim.disableAnnoyingNeovimMessage": true,
+    "vim.insertModeKeyBindingsNonRecursive": [
+        {
+            "before": ["k", "j"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.easymotion": true,
+    "vim.otherModesKeyBindingsNonRecursive": [
+        
+        {
+            "before": ["W"],
+            "after": ["v", "i", "w"]
+        },
+        {
+            "before": ["Y"],
+            "after": ["\"", "+", "y"]
+        },
+        {
+            "before": ["<leader>", "p"],
+            "after": ["\"", "+", "p"]
+        },
+        {
+            "before": ["<leader>", "s", "a"],
+            "after": ["g", "g", "V", "G"]
+        },
+        {
+            "before": ["y","w"],
+            "after": ["i", "w"]
+        },
+        {
+            "before": ["d","w"],
+            "after": ["i", "w"]
+        },
+        {
+            "before": ["j"],
+            "after": ["g", "j"]
+        },
+        {
+            "before": ["k"],
+            "after": ["g", "k"]
+        },
+//        {
+//            "before": [";"],
+//            "after": [":"]
+//        },
+        {
+            "before": ["L"],
+            "after": ["$"]
+        },
+        {
+            "before": ["-"],
+            "after": ["$"]
+        },
+        {
+            "before": ["H"],
+            "after": ["^"]
+        },
+        {
+            "before": ["<leader>", "w"],
+            "after": [],
+            "commands": [
+                {
+                    "command": "workbench.action.files.save",
+                    "args": []
+                }
+            ]
+        },
+        {
+            "before": ["<leader>", "r"],
+            "after": [],
+            "commands": [
+                {
+                    "command": ":set relativenumber",
+                    "args": []
+                }
+            ]
+        },
+        {
+            "before": ["<leader>", "n"],
+            "after": [],
+            "commands": [
+                {
+                    "command": ":set number",
+                    "args": []
+                }
+            ]
+        }
+    ],
+    "vim.leader": ",",
+    "editor.lineNumbers": "relative",
+    "sync.gist": "e0995f512bd773e857b1c096fcaf9db5",
+    "sync.lastUpload": "2017-11-22T03:20:41.096Z",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "sync.anonymousGist": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "vim.cmdLineInitialColon": true,
+    "git.enableSmartCommit": true,
+    "java.errors.incompleteClasspath.severity": "ignore"
+}
