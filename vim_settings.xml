@@ -1,8 +1,8 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="M" line="25" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" />
+      <mark key="M" line="25" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" protocol="file" />
     </globalmarks>
     <filemarks>
       <file name="F:/projectL/demo/src/test/java/com/concurrent/threadpool/BulkExecuteJob.java" timestamp="1512544230435">
@@ -31,6 +31,11 @@
         <mark key="]" line="60" column="54" />
         <mark key="^" line="60" column="54" />
         <mark key="." line="60" column="54" />
+      </file>
+      <file name="D:/Documents/jersey2-spring4-grizzly2/src/main/resources/spring-context.xml" timestamp="1520734368095">
+        <mark key="[" line="7" column="117" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="F:/projectL/demo/src/test/java/httpclient/HttpClientCookieTest.java" timestamp="1512028865472">
         <mark key="[" line="28" column="35" />
@@ -367,8 +372,8 @@
       <jump line="31" column="4" filename="F:/projectL/demo/src/test/java/com/rsa/RSAUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9zZWN1cml0eSBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL3NlY3VyaXR5L3NwcmluZy1zZWN1cml0eS0zLjEueHNkCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -377,31 +382,31 @@
         <text>public\|private\|protect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b0hleFN0cmluZygnwV8nKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b0hleFN0cmluZygn77+9XycpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9zZWN1cml0eSBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL3NlY3VyaXR5L3NwcmluZy1zZWN1cml0eS0zLjEueHNkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqLm5vdGlmeSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JqLm5vdGlmeSgpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9iai53YWl0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9iai5ub3RpZnkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9iai53YWl0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb2JqLm5vdGlmeSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9iai5ub3RpZnkoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9iai5ub3RpZnkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb2JqLm5vdGlmeSgpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9iai5ub3RpZnkoKTsK</text>
