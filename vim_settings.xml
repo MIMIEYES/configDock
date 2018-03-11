@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="M" line="25" column="0" filename="F:/projectL/demo/src/test/java/com/entity/TestBean.java" protocol="file" />
     </globalmarks>
@@ -32,10 +32,11 @@
         <mark key="^" line="60" column="54" />
         <mark key="." line="60" column="54" />
       </file>
-      <file name="D:/Documents/jersey2-spring4-grizzly2/src/main/resources/spring-context.xml" timestamp="1520734368095">
-        <mark key="[" line="7" column="117" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="D:/Documents/jersey2-spring4-grizzly2/src/main/resources/spring-context.xml" timestamp="1520734785393">
+        <mark key="[" line="17" column="68" />
+        <mark key="]" line="17" column="68" />
+        <mark key="." line="17" column="68" />
+        <mark key="^" line="17" column="107" />
       </file>
       <file name="F:/projectL/demo/src/test/java/httpclient/HttpClientCookieTest.java" timestamp="1512028865472">
         <mark key="[" line="28" column="35" />
@@ -136,6 +137,10 @@
       <file name="$USER_HOME$/Documents/comment/src/main/java/com/tianhaoera/mybatis/mapper/DemoMapper.java" timestamp="1512722820416">
         <mark key="[" line="14" column="8" />
         <mark key="]" line="14" column="21" />
+      </file>
+      <file name="D:/Documents/api-server/src/main/resources/jdbc.properties" timestamp="1520734722017">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="75" />
       </file>
       <file name="F:/projectL/demo/pom.xml" timestamp="1512703380591">
         <mark key="[" line="53" column="10" />
@@ -372,11 +377,11 @@
       <jump line="31" column="4" filename="F:/projectL/demo/src/test/java/com/rsa/RSAUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9zZWN1cml0eSBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL3NlY3VyaXR5L3NwcmluZy1zZWN1cml0eS0zLjEueHNkCg==</text>
+      <register name="&quot;" type="4">
+        <text>?useUnicode=truecharacterEncoding=UTF-8&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>?useUnicode=truecharacterEncoding=UTF-8&quot;</text>
       </register>
       <register name="/" type="4">
         <text>public\|private\|protect</text>
