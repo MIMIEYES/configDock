@@ -138,6 +138,11 @@
         <mark key="[" line="14" column="8" />
         <mark key="]" line="14" column="21" />
       </file>
+      <file name="D:/Documents/jerseyGrizzlySpingDemo/src/main/java/io/nuls/api/server/service/impl/RpcServerServiceImpl.java" timestamp="1520739202667">
+        <mark key="[" line="81" column="27" />
+        <mark key="]" line="81" column="27" />
+        <mark key="." line="81" column="27" />
+      </file>
       <file name="D:/Documents/api-server/src/main/resources/jdbc.properties" timestamp="1520734722017">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="75" />
@@ -378,10 +383,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>?useUnicode=truecharacterEncoding=UTF-8&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>?useUnicode=truecharacterEncoding=UTF-8&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>public\|private\|protect</text>
