@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="2018-03-11" type="PLAIN_TEXT" />
       <mapping ext="2018-03-16" type="PLAIN_TEXT" />
+      <mapping ext="2018-03-17" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
