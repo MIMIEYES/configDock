@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/codecentric/spring-boot-admin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nuls-io/nuls.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\projectL" />
+    <option name="cloneParentDir" value="F:\copy" />
   </component>
 </application>
