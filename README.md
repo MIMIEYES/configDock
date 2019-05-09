@@ -1,1 +1,1 @@
-# configDock
+config dock

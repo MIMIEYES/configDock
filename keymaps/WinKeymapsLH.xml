@@ -1,4 +1,9 @@
 <keymap version="1" name="WinKeymapsLH" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
@@ -7,16 +12,37 @@
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="Console.TableResult.CloneRow">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="Console.TableResult.NavigateAction" />
   <action id="Console.TableResult.Revert">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="ContextHelp" />
+  <action id="DSM.OpenInEditor" />
+  <action id="Database.OpenDbStorageAction" />
+  <action id="DatabaseView.CopyAction">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="Debugger.EditFrameSource" />
+  <action id="DomCollectionControl.Edit" />
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
+  <action id="EditSource" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
@@ -24,16 +50,21 @@
     <keyboard-shortcut first-keystroke="alt back_space" />
   </action>
   <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="shift alt insert" />
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="ExportToTextFile" />
   <action id="ExternalJavaDoc">
-    <keyboard-shortcut first-keystroke="f1" />
+    <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="ExternalSystem.OpenConfig" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="shift alt f" />
@@ -42,6 +73,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass">
@@ -50,13 +82,25 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift alt o" />
   </action>
+  <action id="Graph.Faces.OpenSelectedPages" />
+  <action id="GuiDesigner.Duplicate">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="HippieCompletion" />
+  <action id="Jdbc.OpenConsole" />
+  <action id="Jdbc.OpenEditor" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="OpenModuleSettings" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="RecentChangedFiles">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
@@ -66,13 +110,24 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="RemoteHostView.EditSource" />
   <action id="RerunTests" />
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
+  <action id="RunDashboard.CopyConfiguration">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="RunDashboard.EditConfiguration" />
+  <action id="Vcs.EditSource" />
+  <action id="Vcs.Log.OpenRepositoryVersion" />
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="XDebugger.CopyWatch">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="XDebugger.JumpToSource" />
   <action id="hg4idea.QFold" />
 </keymap>
